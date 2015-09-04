@@ -1,6 +1,6 @@
 +++
 date        = "2015-09-03"
-title       = "Divescapes 2016"
+title       = "About"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 +++
 
