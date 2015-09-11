@@ -4,25 +4,30 @@ title       = "Tickets"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 +++
 
-The best value to attend the show is to purchase a gold pass.  A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
+The best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
 
 Tickets purchased in advance of July 21, 2016 are significantly less expensive than afterwards, so please remember to purchase your tickets early!
 
-Gold Pass Advance Purchase				$139
-Gold Pass After Advance Deadline			$179
-*Not on Website* Gold Pass (Dive Professional)		$129
+**Gold Pass**
 
-Friday Pass (Includes dinner)				$79
-Friday Pass (After advance deadline)			$119
+* Gold Pass Advance Purchase - $139
+* Gold Pass After Advance Deadline - $179
 
-Saturday Pass (Includes dinner)				$109
-Saturday Pass (After advance deadline)			$149
+**Friday Pass**
 
-Saturday AM Seminars					$39
-Saturday AM Seminars (After advance deadline)		$79
-Saturday PM Seminars					$39
-Saturday PM Seminars (After advance deadline)		$79
-Saturday Dinner					$99
-Saturday Dinner (After advance deadline)		$139
+* Friday Pass (Includes dinner) - $79
+* Friday Pass (After advance deadline) - $119
 
-How can we handle promo code and tracking.  We would like to issue promo codes to insturctors that will give the student a 5% discount and we would issue a commission to the instructor, so we need to be able to track somehow which code was used.  Would prefer to handle this with Paypal Payments Standard if possible.
+**Saturday Pass**
+
+* Saturday Pass (Includes dinner) - $109
+* Saturday Pass (After advance deadline) - $149
+
+**Saturday Options**
+
+* Saturday AM Seminars - $39
+* Saturday AM Seminars (After advance deadline) - $79
+* Saturday PM Seminars - $39
+* Saturday PM Seminars (After advance deadline) - $79
+* Saturday Dinner - $99
+* Saturday Dinner (After advance deadline) - $139
