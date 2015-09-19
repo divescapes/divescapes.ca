@@ -1,32 +1,104 @@
-<footer class="row">
-<div class="large-12 columns">
-<hr/>
-<div class="row">
-<div class="large-6 columns">
-<p>&copy; Copyright <a href="/about/">Alberta Underwater Council</a> 2015</p>
-</div>
-<div class="large-6 columns">
-<ul class="inline-list right">
-  <li><a href="/">Home</a></li>
-  <li><a href="/show/">Show Info</a></li>
-  <li><a href="/tickets/">Ticket Info</a></li>
-  <li><a href="/exhibitors/">Exhibitors</a></li>
-  <li><a href="/sponsors/">Sponsors</a></li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
-<script src="/assets/js/jquery.js"></script>
-<script src="/assets/js/foundation.min.js"></script>
-<script>
-    $(document).foundation();
-  </script>
-<script>
-      $(document).foundation();
 
-      var doc = document.documentElement;
-      doc.setAttribute('data-useragent', navigator.userAgent);
-    </script>
+<!-- Footer Start -->
+<div id="footer">
+
+	<!-- 960 Container -->
+	<div class="container">
+
+		<!-- About -->
+		<div class="four columns">
+			<h5>About Us</h5>
+			<p>Divescapes Canada's largest and best Scuba Diving Conference and Exhibition. Divescapes is held biannually in either Edmonton or Calgary by the <a href="/about/">Alberta Underwater Council</a>.</p>
+			<p>Divescapes is THE place to see top tier speakers and exhibitors, and to attend fun and educational seminars and workshops.</p>
+		</div>
+
+		<!-- Useful Links -->
+		<div class="four columns">
+			<h5>Useful Links</h5>
+			<ul class="links-list">
+				<li><a href="/">Home</a></li>
+				<li><a href="/show/">Show Info</a></li>
+				<li><a href="/tickets/">Ticket Info</a></li>
+				<li><a href="/exhibitors/">Exhibitors</a></li>
+				<li><a href="/sponsors/">Sponsors</a></li>
+				<li><a href="/archives/2014/">Divescapes 2014</a></li>
+			</ul>
+		</div>
+
+		<!-- Latest From Blog -->
+		<div class="four columns">
+			<h5>Latest From The Blog</h5>
+
+			<div class="latest-post">
+				<a href="#"><img src="images/latest_widget_img_01.png" alt="" /></a>
+				<p><a href="#">Maecenas metus lore nulla, facili, pretium lipsum sit.</a></p>
+				<span>28 June 2015</span>
+			</div>
+
+			<div class="latest-post">
+				<a href="#"><img src="images/latest_widget_img_02.png" alt="" /></a>
+				<p><a href="#">Aean metus lore nulla, facili, pretium lipsum dolor.</a></p>
+				<span>26 June 2015</span>
+			</div>
+
+			<div class="latest-post">
+				<a href="#"><img src="images/latest_widget_img_03.png" alt="" /></a>
+				<p><a href="#">Metus lore lipsum nullam, facili, pretiumea lipsum.</a></p>
+				<span>22 June 2015</span>
+			</div>
+
+		</div>
+
+		<!-- Twitter -->
+		<div class="four columns">
+			<h5>Latest Tweets</h5>
+			<ul id="twitter"></ul>
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+					$.getJSON('twitter.php?url='+encodeURIComponent('statuses/user_timeline.json?screen_name=Vasterad&count=2'), function(tweets){
+						$("#twitter").html(tz_format_twitter(tweets));
+					}); });
+				</script>
+			<div class="clearfix"></div>
+		</div>
+
+	</div>
+	<!-- 960 Container End -->
+
+</div>
+<!-- Footer End -->
+
+<!--  Footer Copyright-->
+<div id="footer-bottom">
+
+	<!-- 960 Container -->
+	<div class="container">
+
+		<div class="eight columns">
+			<div id="copyright">© Copyright 2015 by <span>Incredible</span>. All Rights Reserved.</div>
+		</div>
+
+		<div class="eight columns">
+			<ul class="social-icons-footer">
+				<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a></li>
+				<li><a href="#" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="#" title="RSS"><i class="fa fa-rss"></i></a></li>
+			</ul>
+		</div>
+
+	</div>
+	<!-- End 960 Container -->
+
+</div>
+<!--  Footer Copyright End -->
+
+<!-- Back To Top Button -->
+<div id="backtotop"><a href="#"></a></div>
+
+<!-- Imagebox Build -->
+<script src="js/imagebox.build.js"></script>
+
 </body>
 </html>
