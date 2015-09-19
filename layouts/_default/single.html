@@ -1,35 +1,60 @@
 {{ partial "header.html" . }}
-
-<div class="row">
-<div class="large-12 columns">
 {{ partial "navigation.html" . }}
-<p><img src="/images/banner.jpg" width="1000" height="400" /></p>
-</div>
-</div>
 
+<!--  Page Title -->
+<div id="page-title">
 
-<div class="row">
-
-<div class="large-9 columns" role="content">
-<h3>{{ .Title }}</h3>
-{{ .Content }}
-</div>
-
-<aside class="large-3 columns">
-<h5>2016 Show Information</h5>
-<ul class="side-nav">
-<li><a href="/show/">Schedule</a></li>
-<li><a href="/show/speakers/">Speakers</a></li>
-<li><a href="/show/workshops/">Workshops</a></li>
-<li><a href="/show/hotel-and-travel/">Hotel and Travel</a></li>
-</ul>
-<div class="panel">
-<h5>Buy now!</h5>
-<p>Divescapes is THE place to see top tier speakers and exhibitors, and to attend fun and educational seminars and workshops</p>
-<a href="/tickets/">Tickets &rarr;</a>
-</div>
-</aside>
+	<!-- 960 Container Start -->
+	<div class="container">
+		<div class="eight columns">
+			<h2>{{ .Title }}</h2>
+		</div>
+		<!-- <div class="eight columns">
+			<nav id="breadcrumbs">
+				<ul>
+					<li>You are here:</li>
+					<li><a href="#">Home</a></li>
+					<li>About</li>
+				</ul>
+			</nav>
+		</div> -->
+	</div>
+	<!-- 960 Container End -->
 
 </div>
+<!-- Page Title End -->
+
+<!-- 960 Container -->
+<div class="container">
+
+	<!-- Standard Structure -->
+	<div class="eleven columns">
+		{{ .Content }}
+	</div>
+
+	<div class="five columns">
+
+		<h5>Show Info</h5>
+			<ul style="margin-top:15px;" class="categories">
+				<li><a href="/show/">Schedule</a></li>
+				<li><a href="/show/speakers/">Speakers</a></li>
+				<li><a href="/show/workshops/">Workshops</a></li>
+				<li><a href="/show/hotel-and-travel/">Hotel and Travel</a></li>
+			</ul>
+
+		<h4 class="headline">Show Information</h4>
+		<p>
+
+		<!-- Large Notice -->
+		<div class="large-notice">
+			<h2>Buy Now</h2>
+			<p>Divescapes is THE place to see top tier speakers and exhibitors, and to attend fun and educational seminars and workshops.</p>
+			<a href="/tickets/" class="button medium yellow">Tickets</a>
+		</div>
+		</p>
+	</div>
+	<!-- Standard Structure End -->
+</div>
+<!-- 960 Container End -->
 
 {{ partial "footer.html" . }}

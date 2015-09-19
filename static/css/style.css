@@ -7,14 +7,14 @@
 /* =============================================================== */
 /* Import Section
 ================================================================ */
-@import url("base.css");				/* Default Reset, Typography, Forms, etc. */ 
-@import url("skeleton.css");			/* 960 Grid + Media Query Layouts */ 
-@import url("flexslider.css");			/* Flex Slider Styles */ 
-@import url("layerslider.css");			/* Flex Slider Styles */ 
-@import url("pricing_tables.css");		/* Pricing Table Styles */ 
-@import url("imagebox.css");			/* Responsive Lightbox */ 
-@import url("shortcodes.css");			/* Shortcode Styles */ 
-@import url("icons.css");				/* FontAwesome Icons */ 
+@import url("base.css");				/* Default Reset, Typography, Forms, etc. */
+@import url("skeleton.css");			/* 960 Grid + Media Query Layouts */
+@import url("flexslider.css");			/* Flex Slider Styles */
+@import url("layerslider.css");			/* Flex Slider Styles */
+@import url("pricing_tables.css");		/* Pricing Table Styles */
+@import url("imagebox.css");			/* Responsive Lightbox */
+@import url("shortcodes.css");			/* Shortcode Styles */
+@import url("icons.css");				/* FontAwesome Icons */
 
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700");
 
@@ -178,7 +178,7 @@ h5.headline {
 #navigation ul, #navigation li {list-style:none; padding:0; margin:0; display:inline; }
 #navigation ul li{float:left; position:relative;}
 
-#navigation ul li a { 
+#navigation ul li a {
 	display: inline-block;
 	color: #888;
 	padding: 31px 12px 28px 12px;
@@ -195,11 +195,11 @@ h5.headline {
 }
 
 #navigation ul ul {
-	opacity: 0; 
+	opacity: 0;
 	margin: -2px 0 0 5px;
-  	filter: alpha(opacity=0); 
+  	filter: alpha(opacity=0);
 	position: absolute;
-	top:-99999px; 
+	top:-99999px;
 	left: 0;
 	background: #fff;
 	border: 1px solid #dddddd;
@@ -222,16 +222,16 @@ h5.headline {
 	border-top: 1px solid transparent;
 }
 
-#navigation ul ul ul { 
-	position:absolute; 
-	top:-99999px; 
-	left:100%; 
+#navigation ul ul ul {
+	position:absolute;
+	top:-99999px;
+	left:100%;
 	opacity: 0;
 	margin: -3px 0 0 0;
 	z-index: 999;
 }
 
-#navigation ul ul ul li a { 
+#navigation ul ul ul li a {
 	border-bottom: 1px solid #dddddd !important;
 	border-top: 1px solid transparent;
 }
@@ -357,7 +357,7 @@ h5.headline {
 #filters ul li {
 	display: inline;
 	padding: 0 10px 0 0;
-	background:url(../images/filter_divider.png) no-repeat 97% 50%;
+	background:url(/images/filter_divider.png) no-repeat 97% 50%;
 }
 
 #filter ul li:first-child {padding-left:0;}
@@ -521,7 +521,7 @@ h5.headline {
 .comments-sec h5 span {color: #888;}
 
 ol.commentlist{
-	float:left; 
+	float:left;
 	width:100%;
 	margin: 0;
 }
@@ -594,7 +594,7 @@ ol li ol.childlist .comment-des {
 }
 
 .comment-by span.reply{
-	color:#777; 
+	color:#777;
 	float:right;
 }
 
@@ -608,7 +608,7 @@ ol li ol.childlist .comment-des {
 
 .comment-by span.date{
 	color:#888;
-	padding-right:7px; 
+	padding-right:7px;
 	float:right;
 }
 
@@ -692,8 +692,8 @@ ol li ol.childlist .comment-des {
 }
 
 .pagination .prev,
-.pagination .prev.off, 
-.pagination .next, 
+.pagination .prev.off,
+.pagination .next,
 .pagination .prev.off {
 	margin-top: -3px;
 }
@@ -909,16 +909,16 @@ a.current-page {
 
 .field label span {color:#ea1c1c;}
 
-.field .validation-error, 
+.field .validation-error,
 .field .validation-error:focus {
 	border:1px solid #f2c4c2;
 	background: #ffeceb;
 }
 
 .loading {
-	background:url(../images/loader.gif) no-repeat 1px; 
-	height:28px; 
-	width:28px; 
+	background:url(/images/loader.gif) no-repeat 1px;
+	height:28px;
+	width:28px;
 	display: none;
 	float: left;
 	margin: 5px;
@@ -956,11 +956,11 @@ a.current-page {
 }
 
 .testimonials_bg {
-	background: url(../images/testimonials_bg.png) no-repeat;
+	background: url(/images/testimonials_bg.png) no-repeat;
 	margin-top: -1px;
 	display: block; width: 200px;
 	height: 30px;
-}	
+}
 
 .testimonials_author {
 	color:#3f8faf;
@@ -1569,8 +1569,8 @@ Version: 1.0
 	.mr-rotato-prev, .mr-rotato-next, .mr-rotato-disabled {margin-right: -10px;}
 	#breadcrumbs ul { float:left; margin-top: 5px; }
 }
-	
-	
+
+
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	.client-logo img {width: 139px; height: auto;}
