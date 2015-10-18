@@ -24,11 +24,11 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Pass</li>
       <li>Gala Dinner</li>
     </ul>
-    <a class="button light" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
 
-<div class="plan one-third column">
+<div class="featured plan one-third column">
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
@@ -42,7 +42,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Friday Evening Dinner</li>
       <li>&nbsp;</li>
     </ul>
-    <a class="button color" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
 
@@ -60,13 +60,13 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Afternoon Dinner</li>
       <li>Gala Dinner</li>
     </ul>
-    <a class="button light" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
 
 <p>&nbsp;</p>
 
-<div class="plan one-third column">
+<div class="featured plan one-third column">
   <h3>Saturday Morning Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
@@ -80,11 +80,11 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Morning Speakers</li>
       <li>&nbsp;</li>
     </ul>
-    <a class="button light" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
 
-<div class="plan one-third column">
+<div class="featured plan one-third column">
   <h3>Saturday Afternoon Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
@@ -97,7 +97,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Afternoon Speakers</li>
       <li>&nbsp;</li>
     </ul>
-    <a class="button color" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
 
@@ -114,6 +114,6 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Gala Dinner</li>
       <li>Saturday Evening Speaker</li>
     </ul>
-    <a class="button light" href="#">Sign Up</a>
+    <a class="button light" href="#">Purchase</a>
   </div>
 </div>
