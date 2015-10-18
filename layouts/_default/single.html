@@ -28,10 +28,11 @@
 <div class="container">
 
 	<!-- Standard Structure -->
-	<div class="eleven columns">
-		{{ .Content }}
-	</div>
+	{{ if in .Params.tags "wide" }}{{ else }}<div class="eleven columns">{{ end }}
+	{{ .Content }}
+	{{ if in .Params.tags "wide" }}{{ else }}</div>{{ end }}
 
+	{{ if in .Params.tags "wide" }}{{ else }}
 	<div class="five columns">
 
 		<h5>Show Info</h5>
@@ -53,6 +54,7 @@
 		</div>
 		</p>
 	</div>
+	{{ end }}
 	<!-- Standard Structure End -->
 </div>
 <!-- 960 Container End -->

@@ -4,8 +4,6 @@ title       = "Workshops"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 +++
 
-We’re working hard to provide another excellent lineup of workshops for 2016.
+**Underwater Photo Workshop with Jill Heinerth**
 
-The workshop lineup will be posted soon.
-
-Please check back for more information.
+**DAN 02 Provider and Neurological Assesment Course**
