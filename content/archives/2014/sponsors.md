@@ -7,38 +7,43 @@ image2 = 23
 image3 = 22
 +++
 
-**Show & Speaker Sponsors**
+<p><strong>Show & Speaker Sponsors</strong></p>
 
-The Dive Outfitters
-Wing Diver Club
-Air Chek Lab
-Dr. Sandy Murray Prof. Corp
-Aqua Sport Scuba
-Ocean Sports
+<ul>
+<li>The Dive Outfitters
+<li>Wing Diver Club
+<li>Air Chek Lab
+<li>Dr. Sandy Murray Prof. Corp
+<li>Aqua Sport Scuba
+<li>Ocean Sports
+</ul>
+<br/>
 
-**Prize Sponsors**
+<p><strong>Prize Sponsors</strong></p>
 
-Faces of the Sea
-Fly and Sea Dive
-Ogden Point Dive Centre
-Sundown Diving
-AKONA
-Aqua-Lung
-BARE
-DUI
-H20 Visions Bonaire
-Hollis
-Ikelite
-Intova
-Matts Coin & Buillion
-NeoSport
-Henderson
-PADI Canada
-Sea Life
-St. Moritz
-TUSA
-Adventures in Scuba
-Aqua Sport Scuba
-Ocean Sports
-The Dive Outfitters
-Stain Glass Artist: Gayle Laskosky
+<ul>
+<li>Faces of the Sea
+<li>Fly and Sea Dive
+<li>Ogden Point Dive Centre
+<li>Sundown Diving
+<li>AKONA
+<li>Aqua-Lung
+<li>BARE
+<li>DUI
+<li>H20 Visions Bonaire
+<li>Hollis
+<li>Ikelite
+<li>Intova
+<li>Matts Coin & Buillion
+<li>NeoSport
+<li>Henderson
+<li>PADI Canada
+<li>Sea Life
+<li>St. Moritz
+<li>TUSA
+<li>Adventures in Scuba
+<li>Aqua Sport Scuba
+<li>Ocean Sports
+<li>The Dive Outfitters
+<li>Stain Glass Artist: Gayle Laskosky
+</ul>
