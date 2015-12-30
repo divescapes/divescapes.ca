@@ -2,6 +2,9 @@
 date        = "2015-09-03"
 title       = "Hotel and Travel"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+image1 = 13
+image2 = 14
+image3 = 15
 +++
 
 The host hotel for Divescapes 2016 is the Deerfoot Inn and Casino.

@@ -2,6 +2,9 @@
 date        = "2015-09-03"
 title       = "Exhibitors"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+image1 = 16
+image2 = 17
+image3 = 18
 +++
 
 Market your products or services at the Largest SCUBA Conference in Canada!

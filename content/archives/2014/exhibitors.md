@@ -2,6 +2,9 @@
 date        = "2015-09-03"
 title       = "Exhibitors"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+image1 = 20
+image2 = 21
+image3 = 22
 +++
 
 <ul>

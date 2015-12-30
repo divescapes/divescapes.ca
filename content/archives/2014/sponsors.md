@@ -2,6 +2,9 @@
 date        = "2015-09-03"
 title       = "Sponsors"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+image1 = 24
+image2 = 23
+image3 = 22
 +++
 
 **Show & Speaker Sponsors**
