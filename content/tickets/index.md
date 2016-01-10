@@ -16,8 +16,8 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
-    <span class="value">139.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <span class="value">Early Bird $139.00</span>
+    <span class="period" style="text-decoration: line-through;">$179</span>
 
   </div>
   <div class="plan-features">
@@ -25,7 +25,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Trade Show Access</li>
       <li>Friday Pass</li>
       <li>Saturday Pass</li>
-      <li>Gala Dinner</li>
+      <li>Saturday Gala Dinner</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -57,7 +57,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
     <ul>
       <li>Trade Show Access</li>
       <li>Friday Evening Speakers</li>
-      <li>Friday Evening Dinner</li>
+      <li>Friday Evening Meal</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -82,8 +82,8 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Morning Speakers</li>
-      <li>Saturday Afternoon Dinner</li>
-      <li>Gala Dinner</li>
+      <li>Saturday Afternoon Speakers</li>
+      <li>Saturday Gala Dinner</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -102,7 +102,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday Morning Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
-    <span class="value">39.00</span>
+    <span class="value">49.00</span>
     <span class="period">Early Bird - Save $40</span>
 
   </div>
@@ -134,7 +134,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday Afternoon Pass</h3>
   <div class="plan-price">
     <span class="plan-currency">$</span>
-    <span class="value">39.00</span>
+    <span class="value">49.00</span>
     <span class="period">Early Bird - Save $40</span>
   </div>
   <div class="plan-features">
@@ -164,7 +164,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
-      <li>Gala Dinner</li>
+      <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speaker</li>
     </ul>
     <div style="width:100%;text-align:center;">
