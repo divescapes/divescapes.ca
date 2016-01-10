@@ -26,6 +26,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Friday Pass</li>
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
+      <li>Note: No lunch provided on Saturday</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -59,6 +60,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
       <li>&nbsp;</li>
+      <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -84,6 +86,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Morning Speakers</li>
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
+      <li>Note: No lunch provided on Saturday</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
