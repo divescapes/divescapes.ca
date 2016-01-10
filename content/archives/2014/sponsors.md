@@ -10,40 +10,40 @@ image3 = 22
 <p><strong>Show & Speaker Sponsors</strong></p>
 
 <ul>
-<li>The Dive Outfitters
-<li>Wing Diver Club
-<li>Air Chek Lab
+<li><a href="http://thediveoutfitters.ca/">The Dive Outfitters</a>
+<li><a href="http://www.albertaunderwatercouncil.com/programs/club-development/wing-diver-scuba-club-(edmonton).aspx">Wing Diver Club</a>
+<li><a href="http://www.aircheklab.ca/">Air Chek Lab</a>
 <li>Dr. Sandy Murray Prof. Corp
-<li>Aqua Sport Scuba
-<li>Ocean Sports
+<li><a href="http://www.aquasportscuba.com/">Aqua Sport Scuba</a>
+<li><a href="http://oceansports.ca/">Ocean Sports</a>
 </ul>
 <br/>
 
 <p><strong>Prize Sponsors</strong></p>
 
 <ul>
-<li>Faces of the Sea
-<li>Fly and Sea Dive
-<li>Ogden Point Dive Centre
-<li>Sundown Diving
-<li>AKONA
-<li>Aqua-Lung
-<li>BARE
-<li>DUI
-<li>H20 Visions Bonaire
-<li>Hollis
-<li>Ikelite
-<li>Intova
+<li><a href="http://facesofthesea.com/">Faces of the Sea</a>
+<li><a href="http://flyandsea.com/">Fly and Sea Dive</a>
+<li><a href="http://divevictoria.com/">Ogden Point Dive Centre</a>
+<li><a href="http://www.sundowndiving.com/">Sundown Diving</a>
+<li><a href="http://www.akona.com/">AKONA</a>
+<li><a href="http://www.aqualung.com/">Aqua-Lung</a>
+<li><a href="http://www.baresports.com/">BARE</a>
+<li><a href="http://www.dui-online.com/">DUI</a>
+<li><a href="http://www.h2ovisionsbonaire.com/">H20 Visions Bonaire</a>
+<li><a href="http://www.hollis.com/">Hollis</a>
+<li><a href="http://www.ikelite.com/">Ikelite</a>
+<li><a href="https://www.intova.net/">Intova</a>
 <li>Matts Coin & Buillion
-<li>NeoSport
-<li>Henderson
-<li>PADI Canada
-<li>Sea Life
-<li>St. Moritz
-<li>TUSA
-<li>Adventures in Scuba
-<li>Aqua Sport Scuba
-<li>Ocean Sports
-<li>The Dive Outfitters
+<li><a href="http://neosportusa.com/">NeoSport</a>
+<li><a href="http://hendersonusa.com/">Henderson</a>
+<li><a href="https://www.padi.com/">PADI Canada</a>
+<li><a href="http://www.sealife-cameras.com/">Sea Life</a>
+<li><a href="http://www.momentumwatch.com/">St. Moritz</a>
+<li><a href="http://www.tusa.com/">TUSA</a>
+<li><a href="http://adventuresinscuba.com/">Adventures in Scuba</a>
+<li><a href="http://www.aquasportscuba.com/">Aqua Sport Scuba</a>
+<li><a href="http://oceansports.ca/">Ocean Sports</a>
+<li><a href="http://thediveoutfitters.ca/">The Dive Outfitters</a>
 <li>Stain Glass Artist: Gayle Laskosky
 </ul>
