@@ -4,6 +4,8 @@ title       = "About"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 +++
 
+<img src="/images/logos/auc.jpg" width="300" height="105" align="right" alt="Alberta Underwater Council" / style="width:300px;height:105px;">
+
 The Alberta Underwater Council is the non profit representative body for underwater activities in the province of Alberta since 1960.   These underwater activities include scuba diving, snorkeling, free diving and underwater sports such as underwater hockey.
 
 **Our mission statement:** The AUC represents & encourages responsible participation in and an awareness of the many underwater activities available in Alberta while seeking to preserve the aquatic environment.
