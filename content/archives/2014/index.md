@@ -7,8 +7,6 @@ image2 = 4
 image3 = 6
 +++
 
-[Courses](/archives/2014/courses/)
-
 [Exhibitors](/archives/2014/exhibitors/)
 
 [Speakers](/archives/2014/speakers/)

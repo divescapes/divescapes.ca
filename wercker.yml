@@ -19,3 +19,5 @@ deploy:
       code: |
         ls -l public/
         surge ./public/ divescapes-calgary.surge.sh
+        surge ./public/ www.divescapes.ca
+        surge ./public/ divescapes.ca
