@@ -71,6 +71,7 @@ NOTE: Booth space is not confirmed until payment in full is received.
 * Take down is not allowed before 4:00 pm on Saturday.
 * Take down must be complete by 11:00 pm Saturday October 22nd.
 
+<p>&nbsp;</p>
 **Accommodations:**
 
 Conference Group Discount available up until September 21, 2016: [Deerfoot Inn & Casino](http://deerfootinn.com/rooms-and-suites/)
