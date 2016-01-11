@@ -30,18 +30,10 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="Y4ZMUU3MWSKVU">
-      <table>
-      <tr><td><input type="hidden" name="on0" value="Purchase Before July 21/16">Purchase Before July 21/16</td></tr><tr><td><select name="os0">
-                      <option value="Early Bird">Early Bird $139.00 CAD</option>
-                      <option value="After July 21.16">After July 21.16 $179.00 CAD</option>
-                      <option value="+Sat Evening Gala Dinner Only">+Sat Evening Gala Dinner Only $99.00 CAD</option>
-      </select> </td></tr>
-      </table>
-      <input type="hidden" name="currency_code" value="CAD">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="DUK4CCE25ZLA8">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </div>
   </div>
@@ -63,12 +55,12 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="28KKB89MP6F9U">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="28KKB89MP6F9U">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
     </div>
   </div>
 </div>
@@ -89,12 +81,12 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Note: No lunch provided on Saturday</li>
     </ul>
     <div style="width:100%;text-align:center;">
-    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="UFM6JKJKKCFZC">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="FSX7U4V8EKPSL">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
     </div>
   </div>
 </div>
@@ -119,14 +111,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="T3B3X2WNYWLR6">
-      <table>
-      <tr><td><input type="hidden" name="on0" value="Choose SAT AM or PM">Choose SAT AM or PM</td></tr><tr><td><select name="os0">
-                      <option value="SAT AM">SAT AM </option>
-                      <option value="SAT PM">SAT PM </option>
-                      <option value="Option 3">Option 3 </option>
-      </select> </td></tr>
-      </table>
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </div>
@@ -147,12 +132,12 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="C7XJERCY2E6F2">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="PDFWQSAEPMYRJ">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
     </div>
   </div>
 </div>
@@ -173,8 +158,8 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="QNGHAECGGCCKL">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+      <input type="hidden" name="hosted_button_id" value="C7XJERCY2E6F2">
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
       <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </div>
