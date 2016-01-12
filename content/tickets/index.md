@@ -15,7 +15,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
+    <!-- <span class="plan-currency">$</span> -->
     <span class="value">Early Bird $139.00</span>
     <span class="period" style="text-decoration: line-through;">$179</span>
 
@@ -42,9 +42,9 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="featured plan one-third column">
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
-    <span class="value">79.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <!-- <span class="plan-currency">$</span> -->
+    <span class="value">Early Bird $79.00</span>
+    <span class="period" style="text-decoration: line-through;">$119</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -68,9 +68,9 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="featured plan one-third column">
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
-    <span class="value">109.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <!-- <span class="plan-currency">$</span> -->
+    <span class="value">Early Bird $109.00</span>
+    <span class="period" style="text-decoration: line-through;">$149</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -96,9 +96,9 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="featured plan one-third column">
   <h3>Saturday Morning Pass</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
-    <span class="value">49.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <!-- <span class="plan-currency">$</span> -->
+    <span class="value">Early Bird $49.00</span>
+    <span class="period" style="text-decoration: line-through;">$89</span>
 
   </div>
   <div class="plan-features">
@@ -121,9 +121,9 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="featured plan one-third column">
   <h3>Saturday Afternoon Pass</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
-    <span class="value">49.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <!-- <span class="plan-currency">$</span> -->
+    <span class="value">Early Bird $49.00</span>
+    <span class="period" style="text-decoration: line-through;">$89</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -145,9 +145,9 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
 <div class="featured plan one-third column">
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
-    <span class="plan-currency">$</span>
-    <span class="value">99.00</span>
-    <span class="period">Early Bird - Save $40</span>
+    <!-- <span class="plan-currency">$</span> -->
+    <span class="value">Early Bird $99.00</span>
+    <span class="period" style="text-decoration: line-through;">$139</span>
   </div>
   <div class="plan-features">
     <ul>
