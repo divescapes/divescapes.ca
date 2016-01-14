@@ -7,7 +7,7 @@ image2 = 11
 image3 = 12
 +++
 
-We’re working hard to provide you with another stellar schedule for 2016.
+We’re working hard to provide you with another stellar schedule for Divescapes 2016 which is happening on October 21 - 23.
 
 Schedule with be posted soon!
 
