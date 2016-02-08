@@ -25,7 +25,7 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 <tr><td>9:00 PM</td><td>Cocktails and social until 11pm</td></tr>
 </tbody>
 </table>
-<br/><p>&nbsp;</p>
+<br/>
 <table>
 <thead>
 <tr>
@@ -48,7 +48,7 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 <tr><td>9:00 PM</td><td>Saturday Evening Speaker 2</td></tr>
 </tbody>
 </table>
-<br/><p>&nbsp;</p>
+<br/>
 <table>
 <thead>
 <tr>
