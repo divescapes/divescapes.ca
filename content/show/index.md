@@ -12,7 +12,7 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 <table>
 <thead>
 <tr>
-<th>Friday</th>
+<th><strong>Friday</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -25,10 +25,11 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 <tr><td>9:00 PM</td><td>Cocktails and social until 11pm</td></tr>
 </tbody>
 </table>
+<br/><p>&nbsp;</p>
 <table>
 <thead>
 <tr>
-<th>Saturday</th>
+<th><strong>Saturday</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -47,10 +48,11 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 <tr><td>9:00 PM</td><td>Saturday Evening Speaker 2</td></tr>
 </tbody>
 </table>
+<br/><p>&nbsp;</p>
 <table>
 <thead>
 <tr>
-<th>Sunday</th>
+<th><strong>Sunday</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
