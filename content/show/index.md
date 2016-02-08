@@ -9,7 +9,11 @@ image3 = 12
 
 We’re working hard to provide you with another stellar schedule for Divescapes 2016 which is happening on October 21 - 23.
 
-<table cellspacing="5">
+<style type="text/css">
+th, td { padding: 5px; }
+</style>
+
+<table>
 <thead>
 <tr>
 <th><strong>Friday</strong></th>
@@ -26,7 +30,7 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 </tbody>
 </table>
 <br/>
-<table cellspacing="5">
+<table>
 <thead>
 <tr>
 <th><strong>Saturday</strong></th>
@@ -49,7 +53,7 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 </tbody>
 </table>
 <br/>
-<table cellspacing="5">
+<table>
 <thead>
 <tr>
 <th><strong>Sunday</strong></th>
