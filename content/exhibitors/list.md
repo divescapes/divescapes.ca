@@ -52,4 +52,14 @@ Platinum Scuba<br/>
 Lethbridge, Alberta T1J 0P7<br/>
 [http://www.platinumscuba.ca/](http://www.platinumscuba.ca/)
 
+<p><img src="/images/exhibitors/divesafe.jpg" border="0" /></p>
+
+DiveSafe International<br/>
+1630 Island Highway, Campbell River, BC  V9W 2E5<br/>
+Ph: 240-287-3837
+
+DiveSafe International (DSI) is Canada's premier underwater/marine education centre, located along the shores of "Discovery Passage" in beautiful B.C. We train divers to the highest standard of commercial diving allowing graduates to work anywhere in the world. DSI is also home to the Campbell River dive centre. DSI and CR diving allows divers the opportunity to explore the waters of the Pacific Northwest - with access to some of the best cold water diving in the world! — at DiveSafe International.
+
+[http://www.divesafe.com/](http://www.divesafe.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
