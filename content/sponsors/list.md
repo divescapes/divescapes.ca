@@ -49,3 +49,7 @@ Mailing Address:
 c/o The Dive Outfitters<br/>
 17826-107 Ave<br/>
 Edmonton, Alberta, Canada
+
+<p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
+
+<p>Acknowledgement & thanks for the Donation of  Shearwater’s latest, brand-new Perdix Dive Computer (Suggested Retail: $1075) for AUC’s Silent Auction or Raffle</p>

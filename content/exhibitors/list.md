@@ -21,4 +21,35 @@ Spend an unforgettable day scuba diving or touring the beautiful waters and shor
 
 <p><a href="http://www.nanaimodiveoutfitters.ca/charter">http://www.nanaimodiveoutfitters.ca/charter</a></p>
 
+<p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
+
+Shearwater Research Inc. is a Vancouver, Canada-based designer and manufacturer of technical diving computers and rebreather control systems.  Shearwater’s advanced rebreather control systems and dive computers meet divers’ essential needs for powerful and reliable diving technology.  The devices offer divers state-aware and insightful choices during stressful underwater situations.  This commitment to simplicity and reliability has established Shearwater as the recognized world leader in our field.
+
+Shearwater Research Inc.<br/>
+Unit 250, 13155 Delf Place, Richmond, BC V6V 2A2<br/>
+Tel: 604-669-9958 | Fax: 604-681-4982<br/>
+[www.shearwater.com](http://www.shearwater.com)
+
+Find Shearwater Research products at your local Alberta dealers including:
+
+Alberta Adventure Divers Ltd.<br/>
+Wainwright, Alberta T9W 1S8<br/>
+[http://www.albertadivers.ca/](http://www.albertadivers.ca/)
+
+Aqua Sport Scuba Center Inc.<br/>
+Calgary, Alberta T2T 4Z6<br/>
+[http://www.aquasportscuba.com/](http://www.aquasportscuba.com/)
+
+The Dive Outfitters<br/>
+Edmonton, Alberta T5S 1J1<br/>
+[http://thediveoutfitters.ca/](http://thediveoutfitters.ca/)
+
+The Dive Shop Calgary<br/>
+Calgary, Alberta T2G 5E8<br/>
+[http://www.diveshopscuba.com/](http://www.diveshopscuba.com/)
+
+Platinum Scuba<br/>
+Lethbridge, Alberta T1J 0P7<br/>
+[http://www.platinumscuba.ca/](http://www.platinumscuba.ca/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
