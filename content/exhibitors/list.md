@@ -62,4 +62,19 @@ DiveSafe International (DSI) is Canada's premier underwater/marine education cen
 
 [http://www.divesafe.com/](http://www.divesafe.com/)
 
+<p><img src="/images/exhibitors/the-dive-shop.jpg" border="0" /></p>
+
+The Dive Shop<br/>
+4652 McLeod Trail, SW, Calgary, AB T2G 5E8<br/>
+Ph: 403-243-4616<br/>
+[www.diveshopscuba.com](http://www.diveshopscuba.com)
+
+Explore the Experience with The Dive Shop! As Calgary's longest running Dive Facility, we have the experience and gear you need to get your diving dreams off the ground and in the water where they belong!
+
+From Open Water all the way through to your Professional Level certifications and technical diving - we have you covered! Let us help you set up your perfect dive vacation through our travel partner, and get you outfitted with the most up-to-date gear that's suited to your diving style. Our expert staff are a tad scuba-mad, and would be happy to drag you down with them! Down with them... Get it?
+
+Come visit us at Divescapes to get all your diving questions answered, enter our draw for some awesome prizes and gift cards, order some awesome gear at ridiculous show-only prices, and pick up some shiny goodies for yourselves and your buddies!
+
+Come Explore the Experience with The Dive Shop!
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
