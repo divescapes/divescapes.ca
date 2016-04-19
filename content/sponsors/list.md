@@ -53,3 +53,5 @@ Edmonton, Alberta, Canada
 <p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
 
 <p>Acknowledgement & thanks for the Donation of  Shearwater’s latest, brand-new Perdix Dive Computer (Suggested Retail: $1075) for AUC’s Silent Auction or Raffle</p>
+
+<a href="https://www.facebook.com/DiveShearwater"><img src="/images/fb.jpg" border="0" align="left" /></a> <a href="https://www.shearwater.com/"><img src="/images/shearwater.jpg" border="0" align="left" /></a> <a href="https://www.youtube.com/user/ShearwaterResearch"><img src="/images/youtube.png" border="0" align="left" /></a>
