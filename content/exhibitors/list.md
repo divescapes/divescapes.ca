@@ -77,4 +77,6 @@ Come visit us at Divescapes to get all your diving questions answered, enter our
 
 Come Explore the Experience with The Dive Shop!
 
+<p><img src="/images/exhibitors/cocoview.jpg" border="0" /></p>
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
