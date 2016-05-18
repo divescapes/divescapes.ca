@@ -79,4 +79,8 @@ Come Explore the Experience with The Dive Shop!
 
 <p><img src="/images/exhibitors/cocoview.jpg" border="0" /></p>
 
+Nature Made it Beautiful, We Make it Easy. CoCo View is a dedicated dive & snorkel resort on the Island of Roatan, located in the Bay Islands of Honduras. CoCo View has 30+ years of experience catering to the expectations and comforts of divers. Our commitment to designing the ultimate dive operation and 24/7 access to our famous 'Front Yard' (with two 100' walls and the 140' Wreck of the Prince Albert) keep divers coming back again and again.  Packages include air-conditioned over-water or ocean-front accommodations, 3 meals daily, two 2-tank boat trips daily and 24/7 shore diving.
+
+[www.cocoviewresort.com](http://www.cocoviewresort.com)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
