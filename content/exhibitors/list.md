@@ -77,10 +77,16 @@ Come visit us at Divescapes to get all your diving questions answered, enter our
 
 Come Explore the Experience with The Dive Shop!
 
-<p><img src="/images/exhibitors/cocoview.jpg" border="0" /></p>
+<p><a href="http://www.cocoviewresort.com"><img src="/images/exhibitors/cocoview.jpg" border="0" /></a></p>
 
 Nature Made it Beautiful, We Make it Easy. CoCo View is a dedicated dive & snorkel resort on the Island of Roatan, located in the Bay Islands of Honduras. CoCo View has 30+ years of experience catering to the expectations and comforts of divers. Our commitment to designing the ultimate dive operation and 24/7 access to our famous 'Front Yard' (with two 100' walls and the 140' Wreck of the Prince Albert) keep divers coming back again and again.  Packages include air-conditioned over-water or ocean-front accommodations, 3 meals daily, two 2-tank boat trips daily and 24/7 shore diving.
 
 [www.cocoviewresort.com](http://www.cocoviewresort.com)
+
+<p><a href="http://flyandsea.com/"><img src="/images/sponsors/FlyandSeaDive.jpg" border="0" /></a></p>
+
+Fly and Sea Dive Adventures is a dive travel specialist company, having sent divers on scuba vacations world-wide since 1997.  We specialize in unique, custom trips that combine diving with cultural & adventure experiences.  Join us at our Divescapes display for dive trip ideas, catalogue of dive adventures & videos.
+
+[flyandsea.com](http://flyandsea.com/)
 
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
