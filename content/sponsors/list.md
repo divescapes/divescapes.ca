@@ -59,3 +59,11 @@ Edmonton, Alberta, Canada
 <br/>
 
 <p><img src="/images/sponsors/cayman.jpg" border="0" /></p>
+
+<p>Welcome to Dive 365 Cayman Islands. Since launching in 2008, the "Dive 365" initiative has highlighted the Cayman Islands' dedication to providing divers with more opportunities while preserving the precious marine environment. Recognised as the birthplace of recreational diving, the Cayman Islands strives to continue to expand and diversify our dive offerings!</p>
+
+<p><a href="http://rendezvousdiving.com/"><img src="/images/sponsors/rendezvous.jpg" border="0" /></a></p>
+
+Diving the outer edge of the West Coast of Vancouver Island in Barkley Sound with Rendezvous Dive Adventures.   Dive Resort features with an extra dimension: including custom dive charters, underwater film footage, media services, plus stewardship & conservation projects and amazing photo opportunities with wildlife both above & below the water.
+
+[rendezvousdiving.com/](http://rendezvousdiving.com/)
