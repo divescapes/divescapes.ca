@@ -83,3 +83,7 @@ Seaproof.tv is an underwater video and design company, with a strong focus on th
 [www.seaproof.tv](http://www.seaproof.tv)
 
 Like us on Facebook: [www.facebook.com/seaprooftv](www.facebook.com/seaprooftv)
+
+## COFFEE BREAK SPONSOR
+
+<p><a href="http://www.underwateroutlaws.com/"><img src="/images/sponsors/UnderwaterOutlaws.jpg" border="0" /></a></p>
