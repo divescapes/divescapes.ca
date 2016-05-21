@@ -99,4 +99,10 @@ Diving the outer edge of the West Coast of Vancouver Island in Barkley Sound wit
 
 [rendezvousdiving.com/](http://rendezvousdiving.com/)
 
+<p><img src="/images/sponsors/AquasportScuba.jpg" border="0" /></p>
+
+At Aqua Sport, we have the largest variety of the world's finest brands of scuba diving and snorkeling equipment; coupled with the greatest volume of inventory at the absolute best prices, presented to you by our very experienced, knowledgeable & friendly staff. Please stop by Aqua Sport's booth for smoking Divescapes deals!
+
+[www.aquasportscuba.com](http://www.aquasportscuba.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).

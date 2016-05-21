@@ -67,3 +67,11 @@ Edmonton, Alberta, Canada
 Diving the outer edge of the West Coast of Vancouver Island in Barkley Sound with Rendezvous Dive Adventures.   Dive Resort features with an extra dimension: including custom dive charters, underwater film footage, media services, plus stewardship & conservation projects and amazing photo opportunities with wildlife both above & below the water.
 
 [rendezvousdiving.com/](http://rendezvousdiving.com/)
+
+## BRONZE SPONSOR
+
+<p><img src="/images/sponsors/AquasportScuba.jpg" border="0" /></p>
+
+At Aqua Sport, we have the largest variety of the world's finest brands of scuba diving and snorkeling equipment; coupled with the greatest volume of inventory at the absolute best prices, presented to you by our very experienced, knowledgeable & friendly staff. Please stop by Aqua Sport's booth for smoking Divescapes deals!
+
+[www.aquasportscuba.com](http://www.aquasportscuba.com/)
