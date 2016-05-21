@@ -75,3 +75,11 @@ Diving the outer edge of the West Coast of Vancouver Island in Barkley Sound wit
 At Aqua Sport, we have the largest variety of the world's finest brands of scuba diving and snorkeling equipment; coupled with the greatest volume of inventory at the absolute best prices, presented to you by our very experienced, knowledgeable & friendly staff. Please stop by Aqua Sport's booth for smoking Divescapes deals!
 
 [www.aquasportscuba.com](http://www.aquasportscuba.com/)
+
+<p><img src="/images/sponsors/Seaproof.jpg" border="0" /></p>
+
+Seaproof.tv is an underwater video and design company, with a strong focus on the scuba industry. We can bring to life your ideas, from concept through to shooting and editing. We can produce promotional videos, product videos, destination videos, mini-mentaries, event coverage videos, or a series of videos to best showcase your business. We also have an extensive background in print and digital design and specialize in producing all manner of materials for scuba diving companies; from brochures, magazines and booth displays, through to complete company branding, store graphics and a visual personality that will help you stand above the rest.
+
+[www.seaproof.tv](http://www.seaproof.tv)
+
+Like us on Facebook: [www.facebook.com/seaprooftv](www.facebook.com/seaprooftv)
