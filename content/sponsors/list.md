@@ -87,3 +87,9 @@ Like us on Facebook: [www.facebook.com/seaprooftv](www.facebook.com/seaprooftv)
 ## COFFEE BREAK SPONSOR
 
 <p><a href="http://www.underwateroutlaws.com/"><img src="/images/sponsors/UnderwaterOutlaws.jpg" border="0" /></a></p>
+
+## CORPORATE SPONSORSHIP
+
+Dr. Sandy J. Murray Professional Corp.<br/>
+Occupational Medicine, Red Deer, AB<br/>
+Ph: 403-342-5400
