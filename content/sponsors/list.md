@@ -76,13 +76,21 @@ At Aqua Sport, we have the largest variety of the world's finest brands of scuba
 
 [www.aquasportscuba.com](http://www.aquasportscuba.com/)
 
-<p><img src="/images/sponsors/Seaproof.jpg" border="0" /></p>
+<p><img src="/images/sponsors/seaproof-tv-logo-white.jpg" border="0" /></p>
 
 Seaproof.tv is an underwater video and design company, with a strong focus on the scuba industry. We can bring to life your ideas, from concept through to shooting and editing. We can produce promotional videos, product videos, destination videos, mini-mentaries, event coverage videos, or a series of videos to best showcase your business. We also have an extensive background in print and digital design and specialize in producing all manner of materials for scuba diving companies; from brochures, magazines and booth displays, through to complete company branding, store graphics and a visual personality that will help you stand above the rest.
 
 [www.seaproof.tv](http://www.seaproof.tv)
 
 Like us on Facebook: [www.facebook.com/seaprooftv](www.facebook.com/seaprooftv)
+
+<p><img src="/images/sponsors/diver-magazine.jpg" border="0" /></p>
+
+DIVER magazine is North America's longest-established diving magazine with over 40 years publishing experience. Hugely respected within the dive industry DIVER has an advisory board consisting of Sylvia Earle, James Cameron, David Doubilet, and Stan Waterman, with regular columns from Jill Heinerth, Jean-Michel Coustea, Dr David Sawatzky, and Publisher Phil Nuytten. DIVER isn't just another scuba magazine - you won't find 20 pages of snorkel reviews here! We pride ourselves by printing some of the best sub aquatic feature articles you'll find anywhere. Underwater archaeology, exploration, unique travel and experiences, advice and tips from the industries brightest stars, and some thought provoking articles to get you thinking.
+
+[www.divermag.com](http://www.divermag.com)
+
+[www.facebook.com/divermagazine](https://www.facebook.com/divermagazine)
 
 ## COFFEE BREAK SPONSOR
 
