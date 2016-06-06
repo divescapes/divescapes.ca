@@ -20,9 +20,7 @@ Your display is visible to attendees throughout the conference because your boot
 
 **COST: $500.00 CAD**
 
-**Early Bird: $400.00 CAD**
-
-If booked and confirmed with payment by  April 15th 2016. You are encouraged to offer a door prize at your booth. Build your mailing list and engage with potential customers as they enter their name and contact information for your prize draw.
+You are encouraged to offer a door prize at your booth. Build your mailing list and engage with potential customers as they enter their name and contact information for your prize draw.
 
 **The exhibitor booths are set up within the main conference area:**
 
