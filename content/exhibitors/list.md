@@ -105,4 +105,14 @@ At Aqua Sport, we have the largest variety of the world's finest brands of scuba
 
 [www.aquasportscuba.com](http://www.aquasportscuba.com/)
 
+<p><img src="/images/sponsors/barbados.jpg" border="0" /></p>
+
+Barbados is acknowledged as the preferred vacation destination for everyone! Thanks to a year round climate of near perfect weather conditions, and a safe and harmonious society, Barbados has become one of the world’s most aspirational destinations.
+
+There are many hidden treasures beneath the magical underwater world of Barbados….As a scuba diver or snorkeler, you can explore two distinct barrier reefs, a multitude of shipwrecks and the most dazzling variety of underwater sea life.
+
+You’re invited to discover the gem of the Caribbean......BARBADOS!!!
+
+[www.visitbarbados.org](http://www.visitbarbados.org)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
