@@ -10,14 +10,11 @@ image3 = 7
 
 The best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
 
-Tickets purchased in advance of July 21, 2016 are significantly less expensive than afterwards, so please remember to purchase your tickets early!
-
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $139.00</span>
-    <span class="period" style="text-decoration: line-through;">$179</span>
+    <span class="value">$179.00 + GST</span>
 
   </div>
   <div class="plan-features">
@@ -27,6 +24,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
+      <li>Must purchase by Oct 10/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -43,14 +41,14 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $79.00</span>
-    <span class="period" style="text-decoration: line-through;">$119</span>
+    <span class="value">$119.00 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
+      <li>Must purchase by Oct 10/2016</li>
       <li>&nbsp;</li>
       <li>&nbsp;</li>
     </ul>
@@ -69,8 +67,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $109.00</span>
-    <span class="period" style="text-decoration: line-through;">$149</span>
+    <span class="value">$149.00 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -79,6 +76,7 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
+      <li>Must purchase by Oct 10/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -97,14 +95,14 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday Morning Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $49.00</span>
-    <span class="period" style="text-decoration: line-through;">$89</span>
+    <span class="value">$89.00 + GST</span>
 
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Morning Speakers</li>
+      <li>Must purchase by Oct 10/2016</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -122,13 +120,13 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday Afternoon Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $49.00</span>
-    <span class="period" style="text-decoration: line-through;">$89</span>
+    <span class="value">89.00 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Afternoon Speakers</li>
+      <li>Must purchase by Oct 10/2016</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -146,14 +144,14 @@ Tickets purchased in advance of July 21, 2016 are significantly less expensive t
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">Early Bird $99.00</span>
-    <span class="period" style="text-decoration: line-through;">$139</span>
+    <span class="value">$139.00 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speaker</li>
+      <li>Must purchase by Oct 10/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
