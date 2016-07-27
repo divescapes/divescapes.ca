@@ -115,4 +115,10 @@ You’re invited to discover the gem of the Caribbean......BARBADOS!!!
 
 [www.visitbarbados.org](http://www.visitbarbados.org)
 
+<p><img src="/images/exhibitors/adventures.jpg" border="0" /></p>
+
+Adventures in Scuba: Dive into the ONLY salt-water scuba and snorkel facility in Alberta and make your underwater dreams a safe reality! Our passion for teaching and matching your scuba needs with best value products and services  ensures you get it right the first time!
+
+[adventuresinscuba.com](http://adventuresinscuba.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
