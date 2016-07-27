@@ -102,7 +102,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Morning Speakers</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Purchase online by Oct 21/2016 or payable at the door.</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -126,7 +126,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Afternoon Speakers</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Purchase online by Oct 21/2016 or payable at the door.</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
