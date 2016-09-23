@@ -20,13 +20,12 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">1:00 PM</td><td>Workshop TBA</td></tr>
-<tr><td align="right">1:00 PM</td><td>Workshop TBA</td></tr>
+<tr><td align="right">1:00 PM</td><td>Underwater Videography with Michael Pitts</td></tr>
 <tr><td align="right">4:00 PM</td><td>Registration Opens</td></tr>
-<tr><td align="right">5:00 PM</td><td>Dinner served until 6:30</td></tr>
-<tr><td align="right">6:30 PM</td><td>Friday Speaker 1</td></tr>
-<tr><td align="right">8:00 PM</td><td>Friday Speaker 2</td></tr>
-<tr><td align="right">9:00 PM</td><td>Cocktails and social until 11pm</td></tr>
+<tr><td align="right">5:00 PM</td><td>Dinner Served (Until 6:30pm)</td></tr>
+<tr><td align="right">6:30 PM</td><td>Charles Dagenau (Parks Canada)</td></tr>
+<tr><td align="right">7:30 PM</td><td>Michael Pitts</td></tr>
+<tr><td align="right">8:30 PM</td><td>Cocktails and Social</td></tr>
 </tbody>
 </table>
 <br/>
@@ -38,18 +37,18 @@ th, td { padding: 5px; }
 </thead>
 <tbody>
 <tr><td align="right">8:00 AM</td><td>Registration Opens</td></tr>
-<tr><td align="right">9:00 AM</td><td>Saturday Morning Speaker 1</td></tr>
-<tr><td align="right">10:00 AM</td><td>Saturday Morning Speaker 2</td></tr>
-<tr><td align="right">11:00 AM</td><td>Speaker Morning Speaker 3</td></tr>
-<tr><td align="right">12:00 PM</td><td>LUNCH BREAK</td></tr>
-<tr><td align="right">1:30 PM</td><td>Saturday Afternoon Speaker 1</td></tr>
-<tr><td align="right">2:30 PM</td><td>Saturday Afternoon Speaker 2</td></tr>
-<tr><td align="right">3:30 PM</td><td>Saturday Afternoon Speaker 3</td></tr>
-<tr><td align="right">4:30 PM</td><td>Afternoon Break until 6pm</td></tr>
-<tr><td align="right">6:00 PM</td><td>Show Reopens, Cocktails</td></tr>
-<tr><td align="right">6:30 PM</td><td>Dinner served until 8pm</td></tr>
-<tr><td align="right">8:00 PM</td><td>Saturday Evening Speaker 1</td></tr>
-<tr><td align="right">9:00 PM</td><td>Saturday Evening Speaker 2</td></tr>
+<tr><td align="right">9:00 AM</td><td>Lawrence Tulussi</td></tr>
+<tr><td align="right">10:00 AM</td><td>Howie Robbins</td></tr>
+<tr><td align="right">11:00 AM</td><td>Faith Ortins</td></tr>
+<tr><td align="right">12:00 PM</td><td>Lunch Break</td></tr>
+<tr><td align="right">1:30 PM</td><td>Steve Lewis</td></tr>
+<tr><td align="right">2:30 PM</td><td>Brian Kakuk</td></tr>
+<tr><td align="right">3:30 PM</td><td>Evan Kovaks</td></tr>
+<tr><td align="right">4:30 PM</td><td>Afternoon Break</td></tr>
+<tr><td align="right">6:00 PM</td><td>Cocktails</td></tr>
+<tr><td align="right">6:30 PM</td><td>Dinner Served</td></tr>
+<tr><td align="right">8:00 PM</td><td>Michael Pitts</td></tr>
+<tr><td align="right">9:00 PM</td><td>Becky Schott</td></tr>
 </tbody>
 </table>
 <br/>
@@ -60,9 +59,8 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">9 AM</td><td>Workshop TBA</td></tr>
-<tr><td align="right">9 AM</td><td>Workshop TBA</td></tr>
-<tr><td align="right">9 AM</td><td>Workshop TBA</td></tr>
-<tr><td align="right">9 AM</td><td>Workshop TBA</td></tr>
+<tr><td align="right">9 AM</td><td>Survival Strategies Workshop with Steve Lewis</td></tr>
+<tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor</td></tr>
+<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott **Hosted offsite at Adventures in Scuba**</td></tr>
 </tbody>
 </table>
