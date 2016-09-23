@@ -24,3 +24,21 @@ $40 pp +GST
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## U/W Video Tips & Tricks
+
+**Workshop Leader: Michael Pitt<br/>Date: Friday, Oct 21, 2016<br/>Time: 1pm-4pm<br/>Location: Deerfoot Inn & Casino - Seminar Rm, Min 10**
+
+$75 pp +GST
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="87GCB3DER5X2E">
+<table>
+<tr><td><input type="hidden" name="on0" value="Fri, 21/10/16, 1-4pm, Deerfoot">Fri, 21/10/16, 1-4pm, Deerfoot</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+[More details are available in this PDF document.](/downloads/underwater-video-michael-pitt-workshop.pdf)
