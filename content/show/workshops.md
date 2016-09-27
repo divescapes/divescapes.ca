@@ -39,3 +39,33 @@ $75 pp +GST
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## DAN Neurological Assessment Course
+
+**DAN Instructor: Lana Taylor, DiveStrong Canada<br/>Date: Sunday, Oct 23/16, 8:30 am – 12:30 pm<br/>Location: Deerfoot Inn & Casino Seminar Rm**
+
+[More details are available in this PDF document.](/downloads/dan-course.pdf)
+
+Choose:
+
+FULL COURSE: $80+GST  (E-Learning text for course provided when course is confirmed filled at deadline: Oct 10/16)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="B6CYWBXEKDT3S">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+OR
+
+REFRESHER: $40+GST
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="EC7XR3R8BLSZ2">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+(Previously Neuro Assessment Course certified? Has it been 24 months or less?? Take your Refresher – bring your Neuro Slate/Chart with you & re-cert in the same class as beginners)
