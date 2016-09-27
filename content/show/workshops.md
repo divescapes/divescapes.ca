@@ -8,6 +8,21 @@ image3 = 6
 +++
 
 
+## U/W Video Tips & Tricks
+
+**Workshop Leader: Michael Pitts<br/>Date: Friday, Oct 21, 2016<br/>Time: 1pm-4pm<br/>Location: Deerfoot Inn & Casino - Seminar Rm, Min 10**
+
+[More details are available in this PDF document.](/downloads/underwater-video-michael-pitt-workshop.pdf)
+
+$75 pp +GST
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="87GCB3DER5X2E">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 ## Survival Strategies
 
 <p>Dispelling the Myths about the tactics &amp; gear that work best underwater.</p>
@@ -22,21 +37,6 @@ $40 pp +GST
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="999KGVKKV8F4S">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-## U/W Video Tips & Tricks
-
-**Workshop Leader: Michael Pitt<br/>Date: Friday, Oct 21, 2016<br/>Time: 1pm-4pm<br/>Location: Deerfoot Inn & Casino - Seminar Rm, Min 10**
-
-[More details are available in this PDF document.](/downloads/underwater-video-michael-pitt-workshop.pdf)
-
-$75 pp +GST
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="87GCB3DER5X2E">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
