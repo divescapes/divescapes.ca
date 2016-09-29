@@ -61,6 +61,6 @@ th, td { padding: 5px; }
 <tbody>
 <tr><td align="right">9 AM</td><td>Survival Strategies Workshop with Steve Lewis - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
 <tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
-<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott <strong>Hosted offsite at Adventures in Scuba</strong> - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)/td></tr>
+<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott <strong>Hosted offsite at Adventures in Scuba</strong> - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
 </tbody>
 </table>
