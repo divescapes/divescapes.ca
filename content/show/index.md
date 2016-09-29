@@ -20,7 +20,7 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">1:00 PM</td><td>Underwater Videography with Michael Pitts</td></tr>
+<tr><td align="right">1:00 PM</td><td>Underwater Videography with Michael Pitts - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
 <tr><td align="right">4:00 PM</td><td>Registration Opens</td></tr>
 <tr><td align="right">5:00 PM</td><td>Dinner Served (Until 6:30pm)</td></tr>
 <tr><td align="right">6:30 PM</td><td>Charles Dagenau (Parks Canada)</td></tr>
@@ -59,8 +59,8 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">9 AM</td><td>Survival Strategies Workshop with Steve Lewis</td></tr>
-<tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor</td></tr>
-<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott **Hosted offsite at Adventures in Scuba**</td></tr>
+<tr><td align="right">9 AM</td><td>Survival Strategies Workshop with Steve Lewis - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
+<tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
+<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott **Hosted offsite at Adventures in Scuba** - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)/td></tr>
 </tbody>
 </table>
