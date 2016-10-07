@@ -121,4 +121,10 @@ Adventures in Scuba: Dive into the ONLY salt-water scuba and snorkel facility in
 
 [adventuresinscuba.com](http://adventuresinscuba.com/)
 
+<p><img src="/images/exhibitors/sea-dragon.jpg" border="0" /></p>
+
+Interested in scuba diving in British Columbia and the Pacific North West? Sea Dragon Charters has wall diving, pinnacles, canyons, seals, drifts, sponge bio-therms, artificial reefs, and stunning ocean and mountain scenery - explore it all on this 5-Hour boat diving adventure! Head to Horseshoe Bay and take the customized boat: Topline;  out to explore the emerald waters of Howe Sound.
+
+[seadragoncharters.com](http://seadragoncharters.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
