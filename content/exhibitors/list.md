@@ -127,4 +127,12 @@ Interested in scuba diving in British Columbia and the Pacific North West? Sea D
 
 [seadragoncharters.com](http://seadragoncharters.com/)
 
+<p><img src="/images/exhibitors/diabc.jpg" border="0" /></p>
+
+DIABC – Dive Industry Association of BC
+
+Welcomes scuba divers &amp; families to BC to experience some of the most unique diving in the world.  Each coastal dive destination is very different both above & below the water.  Check-out our website &amp; contact one of our members to inquire about your upcoming West Coast dive trip!
+
+[www.diveindustryassociation.com](http://www.diveindustryassociation.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
