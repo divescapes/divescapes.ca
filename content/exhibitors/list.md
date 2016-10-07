@@ -135,4 +135,13 @@ Welcomes scuba divers &amp; families to BC to experience some of the most unique
 
 [www.diveindustryassociation.com](http://www.diveindustryassociation.com/)
 
+<p><img src="/images/exhibitors/tbr.jpg" border="0" /></p>
+
+Turquoise Bay Resort, Roatan, Honduras
+
+Located on Roatan's Northeast shore, Turquoise Bay is the only dive resort in this lush and remote area of the island providing the opportunity to dive uncrowded &amp; pristine sites.  The resort is set on a hillside with great ocean views, boasting a 500 ft white-sand beach.  Enjoy the personal service at a small dive resort!
+
+[www.turquoisebayresort.com](http://www.turquoisebayresort.com/)
+
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
