@@ -151,4 +151,12 @@ Scenic 600 acre tropical resort hideaway with 2 beaches &amp; Padi 5 Star Dive R
 
 [www.ansechastanet.com](http://www.ansechastanet.com/)
 
+<p><img src="/images/exhibitors/sh.jpg" border="0" /></p>
+
+Squba Holidays
+
+Squba Holidays worldwide dive adventures provides superior dive travel arrangements to the premier dive resorts &amp; liveaboards worldwide. Our dive resorts are selected solely on the basis of providing you, our clients, with good value and consistent, reliable &amp; uncompromising levels of service. We believe in providing dive travel packages that meet our standards and your expectations. We invite you to experience the Squba Holidays difference.
+
+[www.SqubaHolidays.com](http://www.squbaholidays.com/)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
