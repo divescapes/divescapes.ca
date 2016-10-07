@@ -101,3 +101,5 @@ DIVER magazine is North America's longest-established diving magazine with over 
 Dr. Sandy J. Murray Professional Corp.<br/>
 Occupational Medicine, Red Deer, AB<br/>
 Ph: 403-342-5400
+
+The [Dive Shop (Calgary)](http://www.diveshopscuba.com/) and [Waterproof Drysuits](http://www.waterproof.eu/products/drysuits/d9-breathable/) – Generous Door Prize: One Waterproof Drysuit (MSRP: $1999)
