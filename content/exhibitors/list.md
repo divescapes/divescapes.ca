@@ -143,5 +143,12 @@ Located on Roatan's Northeast shore, Turquoise Bay is the only dive resort in th
 
 [www.turquoisebayresort.com](http://www.turquoisebayresort.com/)
 
+<p><img src="/images/exhibitors/anse.jpg" border="0" /></p>
+
+Anse Chastanet Resort & Scuba (St. Lucia)
+
+Scenic 600 acre tropical resort hideaway with 2 beaches &amp; Padi 5 Star Dive Resort in the heart of marine reserves.  Dive groups receive tailor-made diving schedules with exclusive dive boat use.
+
+[www.ansechastanet.com](http://www.ansechastanet.com/)
 
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
