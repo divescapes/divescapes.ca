@@ -88,7 +88,6 @@ $100 pp +GST
 <input type="hidden" name="hosted_button_id" value="C7DY36KB4CQNA">
 <table>
 <tr><td><input type="hidden" name="on0" value="Choose Pool Times @Adventures in Scuba">Choose Pool Times @Adventures in Scuba</td></tr><tr><td><select name="os0">
-               <option value="11am-12 PM">11am-12 PM </option>
                <option value="12:30-1:30 PM">12:30-1:30 PM </option>
                <option value="2-3 PM">2-3 PM </option>
                <option value="3:30-4:30 PM">3:30-4:30 PM </option>
