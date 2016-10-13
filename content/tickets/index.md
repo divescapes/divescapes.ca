@@ -24,7 +24,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -48,7 +48,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
       <li>Trade Show Access</li>
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Must purchase by Oct 14/2016</li>
       <li>&nbsp;</li>
       <li>&nbsp;</li>
     </ul>
@@ -76,7 +76,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -151,7 +151,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
       <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speaker</li>
-      <li>Must purchase by Oct 10/2016</li>
+      <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
