@@ -16,7 +16,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$179.00 + GST</span>
+    <span class="value"><strikethrough>$179.00 + GST</strikethrough></span>
 
   </div>
   <div class="plan-features">
@@ -29,12 +29,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="DUK4CCE25ZLA8">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
+      Sold Out
     </div>
   </div>
 </div>
@@ -43,7 +38,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$119.00 + GST</span>
+    <span class="value"><strikethrough>$119.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -55,12 +50,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="28KKB89MP6F9U">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
+      Sold Out
     </div>
   </div>
 </div>
@@ -69,7 +59,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$149.00 + GST</span>
+    <span class="value"><strikethrough>$149.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -81,12 +71,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="FSX7U4V8EKPSL">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
+      Sold Out
     </div>
   </div>
 </div>
@@ -146,7 +131,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$139.00 + GST</span>
+    <span class="value"><strikethrough>$139.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -156,12 +141,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>Must purchase by Oct 14/2016</li>
     </ul>
     <div style="width:100%;text-align:center;">
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="C7XJERCY2E6F2">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-      </form>
+      Sold Out
     </div>
   </div>
 </div>
