@@ -159,4 +159,26 @@ Squba Holidays worldwide dive adventures provides superior dive travel arrangeme
 
 [www.SqubaHolidays.com](http://www.squbaholidays.com/)
 
+<p><img src="/images/exhibitors/sunscape.jpg" border="0" /></p>
+
+Sunscape Resorts &amp; Spas
+
+Sunscape Resorts &amp; Spas offer fun-filled and worry-free, family-friendly vacations without wristbands for families, friends, singles and couples. Guests will experience the convenience of Unlimited-Fun® – where everything is included – paired with a vibrant atmosphere and friendly service in renowned sun destination.
+
+<p><img src="/images/exhibitors/sunscape-cozumel.jpg" border="0" /></p>
+
+Sunscape Sabor Cozumel
+
+Sunscape Sabor Cozumel is located on the beautiful island of Cozumel, just 12 miles off the coast of the Yucatan Peninsula, and offers families, friends, singles and couples an Unlimited-Fun® getaway in a picturesque destination. The 218 guest rooms and suites offer guests spacious accommodations with an in-room mini-bar, private balcony or terrace and stunning ocean views. The Unlimited-Fun® experience begins with two shimmering swimming pools, an Explorer’s Club for Kids, lively bars and lounges, exciting live entertainment and so much more!
+
+[http://www.sunscaperesorts.com/sabor](http://www.sunscaperesorts.com/sabor)
+
+<p><img src="/images/exhibitors/sunscape-curacao.jpg" border="0" /></p>
+
+Sunscape Curacao Resort, Spa &amp; Casino
+
+Located near one of the world’s most praised diving sites, Sunscape Curaçao Resort, Spa &amp; Casino offers guests a fun-filled getaway of a lifetime with all the privileges of Unlimited-Fun®. All guests will enjoy limitless access to six delectable restaurants, where reservations are never required and endless domestic and international beverages from six chic bars and lounges. The Explorer’s Club is where kids, ages 3 to 12, can have their own fun while under the supervision of Red Cross certified supervisors and the Core Zone Teens Club offers special activities and events for teens 13 to 17- years-old. All guests will have the fun-filled getaway of a lifetime at Sunscape Curaçao with activities, events, parties and more where wristbands are never required!
+
+[http://www.sunscaperesorts.com/curacao](http://www.sunscaperesorts.com/curacao)
+
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).

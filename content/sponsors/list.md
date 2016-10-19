@@ -92,6 +92,18 @@ DIVER magazine is North America's longest-established diving magazine with over 
 
 [www.facebook.com/divermagazine](https://www.facebook.com/divermagazine)
 
+## SILENT AUCTION PRIZE SPONSOR
+
+<p><img src="/images/exhibitors/sunscape-cozumel.jpg" border="0" /></p>
+
+7 nights hotel for two at [Sunscapes Sabor Cozumel](http://www.sunscaperesorts.com/sabor) (diving extra)
+
+## DOOR PRIZE SPONSOR
+
+<p><img src="/images/exhibitors/sunscape-curacao.jpg" border="0" /></p>
+
+3 nights hotel for two at [Sunscapes Cuacao Resort](http://www.sunscaperesorts.com/curacao), Spa &amp; Casino (diving extra)
+
 ## COFFEE BREAK SPONSOR
 
 <p><a href="http://www.underwateroutlaws.com/"><img src="/images/sponsors/UnderwaterOutlaws.jpg" border="0" /></a></p>
