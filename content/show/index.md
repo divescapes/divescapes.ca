@@ -7,9 +7,13 @@ image2 = 11
 image3 = 12
 +++
 
-We’re working hard to provide you with another stellar schedule for Divescapes 2016 which is happening on October 21 - 23.
+We’re working hard to provide you with another stellar schedule for Divescapes 2018 which is happening on October 19 - 21.
 
-<style type="text/css">
+<p>Schedule with be posted soon!</p>
+
+<p>Please check back later.</p>
+
+<!-- <style type="text/css">
 th, td { padding: 5px; }
 </style>
 
@@ -63,4 +67,4 @@ th, td { padding: 5px; }
 <tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
 <tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott <strong>Hosted offsite at Adventures in Scuba</strong> - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
 </tbody>
-</table>
+</table> -->
