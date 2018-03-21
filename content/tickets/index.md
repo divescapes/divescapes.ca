@@ -87,7 +87,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
 
     <input type="hidden" name="cmd" value="_s-xclick">
 
-    <input type="hidden" name="hosted_button_id" value="5HGKCYKYUQ6TQ">
+    <input type="hidden" name="hosted_button_id" value="FSX7U4V8EKPSL">
 
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 
@@ -114,7 +114,17 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
+    <input type="hidden" name="cmd" value="_s-xclick">
+
+    <input type="hidden" name="hosted_button_id" value="Y2UBQ6VGBR8A2">
+
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
+    </form>
     </div>
   </div>
 </div>
@@ -132,7 +142,17 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>NOTE: No meals.</li>
     </ul>
     <div style="width:100%;text-align:center;">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
+    <input type="hidden" name="cmd" value="_s-xclick">
+
+    <input type="hidden" name="hosted_button_id" value="5HGKCYKYUQ6TQ">
+
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+
+    </form>
     </div>
   </div>
 </div>
