@@ -16,7 +16,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$179.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird $139.00 + GST</strikethrough></span>
 
   </div>
   <div class="plan-features">
@@ -26,11 +26,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
-      <li>Must purchase by Oct 14/2016</li>
     </ul>
-    <div style="width:100%;text-align:center;">
-      Sold Out
-    </div>
   </div>
 </div>
 
@@ -38,20 +34,16 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$119.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird $79.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
-      <li>Must purchase by Oct 14/2016</li>
       <li>&nbsp;</li>
       <li>&nbsp;</li>
     </ul>
-    <div style="width:100%;text-align:center;">
-      Sold Out
-    </div>
   </div>
 </div>
 
@@ -59,7 +51,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$149.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird $119.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -68,11 +60,7 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
       <li>Note: No lunch provided on Saturday</li>
-      <li>Must purchase by Oct 14/2016</li>
     </ul>
-    <div style="width:100%;text-align:center;">
-      Sold Out
-    </div>
   </div>
 </div>
 
@@ -82,14 +70,13 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday AM or PM Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$39.00 + GST</span>
+    <span class="value">Early Bird $29.00 + GST</span>
 
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Morning OR Afternoon Speakers</li>
-      <li>Purchase online by Oct 21/2016 or payable at the door.</li>
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -107,13 +94,12 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">69.00 + GST</span>
+    <span class="value">Early Bird 39.00 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Speakers and Seminars</li>
-      <li>Purchase online by Oct 21/2016 or payable at the door.</li>
       <li>NOTE: No meals.</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -131,17 +117,13 @@ PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/spon
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$139.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird $99.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speaker</li>
-      <li>Must purchase by Oct 14/2016</li>
     </ul>
-    <div style="width:100%;text-align:center;">
-      Sold Out
-    </div>
   </div>
 </div>
