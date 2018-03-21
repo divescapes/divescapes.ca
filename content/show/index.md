@@ -9,11 +9,9 @@ image3 = 12
 
 We’re working hard to provide you with another stellar schedule for Divescapes 2018 which is happening on October 19 - 21.
 
-<p>Schedule with be posted soon!</p>
+<h2>Show Schedule (Tentative)</h2>
 
-<p>Please check back later.</p>
-
-<!-- <style type="text/css">
+<style type="text/css">
 th, td { padding: 5px; }
 </style>
 
@@ -24,12 +22,12 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">1:00 PM</td><td>Underwater Videography with Michael Pitts - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
+<tr><td align="right">1:00 PM</td><td>Workshop</td></tr>
 <tr><td align="right">4:00 PM</td><td>Registration Opens</td></tr>
 <tr><td align="right">5:00 PM</td><td>Dinner Served (Until 6:30pm)</td></tr>
-<tr><td align="right">6:30 PM</td><td>Charles Dagenau (Parks Canada)</td></tr>
-<tr><td align="right">7:30 PM</td><td>Michael Pitts</td></tr>
-<tr><td align="right">8:30 PM</td><td>Cocktails and Social</td></tr>
+<tr><td align="right">6:30 PM</td><td>Divescapes Speaker 1</td></tr>
+<tr><td align="right">7:15 PM</td><td>Divescapes Speaker 2</td></tr>
+<tr><td align="right">8:00 PM</td><td>Cocktails and Social</td></tr>
 </tbody>
 </table>
 <br/>
@@ -41,18 +39,22 @@ th, td { padding: 5px; }
 </thead>
 <tbody>
 <tr><td align="right">8:00 AM</td><td>Registration Opens</td></tr>
-<tr><td align="right">9:00 AM</td><td>Lawrence Tulussi</td></tr>
-<tr><td align="right">10:00 AM</td><td>Howie Robbins</td></tr>
-<tr><td align="right">11:00 AM</td><td>Faith Ortins</td></tr>
-<tr><td align="right">12:00 PM</td><td>Lunch Break</td></tr>
-<tr><td align="right">1:30 PM</td><td>Steve Lewis</td></tr>
-<tr><td align="right">2:30 PM</td><td>Brian Kakuk</td></tr>
-<tr><td align="right">3:30 PM</td><td>Evan Kovaks</td></tr>
-<tr><td align="right">4:30 PM</td><td>Afternoon Break</td></tr>
+<tr><td align="right">9:00 AM</td><td>Divescapes Speaker 3</td></tr>
+<tr><td align="right">9:45 AM</td><td>1/2 Hour Break</td></tr>
+<tr><td align="right">10:15 AM</td><td>Divescapes Speaker 4</td></tr>
+<tr><td align="right">11:00 AM</td><td>1/2 Hour Break</td></tr>
+<tr><td align="right">11:30 AM</td><td>Divescapes Speaker 5</td></tr>
+<tr><td align="right">12:15 PM</td><td>Lunch Break</td></tr>
+<tr><td align="right">1:30 PM</td><td>Divescapes Speaker 6</td></tr>
+<tr><td align="right">2:15 PM</td><td>1/2 Hour Break</td></tr>
+<tr><td align="right">2:45 PM</td><td>Divescapes Speaker 7</td></tr>
+<tr><td align="right">3:30 PM</td><td>1/2 Hour Break</td></tr>
+<tr><td align="right">4:00 PM</td><td>Divescapes Speaker 8</td></tr>
+<tr><td align="right">4:45 PM</td><td>Afternoon Break</td></tr>
 <tr><td align="right">6:00 PM</td><td>Cocktails</td></tr>
 <tr><td align="right">6:30 PM</td><td>Dinner Served</td></tr>
-<tr><td align="right">8:00 PM</td><td>Michael Pitts</td></tr>
-<tr><td align="right">9:00 PM</td><td>Becky Schott</td></tr>
+<tr><td align="right">8:00 PM</td><td>Divescapes Speaker 9</td></tr>
+<tr><td align="right">8:45 PM</td><td>Divescapes Speaker 10</td></tr>
 </tbody>
 </table>
 <br/>
@@ -63,8 +65,8 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">9 AM</td><td>Survival Strategies Workshop with Steve Lewis - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
-<tr><td align="right">9 AM</td><td>DAN Neurological Assesment with Lana Taylor - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
-<tr><td align="right">9 AM</td><td>Discovering Rebreathers with Bill Coltart and Becky Schott <strong>Hosted offsite at Adventures in Scuba</strong> - (If interested in this additional Workshop, <a href="http://www.divescapes.ca/show/workshops/">purchase here</a>)</td></tr>
+<tr><td align="right">9 AM</td><td>Workshop 2</td></tr>
+<tr><td align="right">9 AM</td><td>Workshop 3</td></tr>
+<tr><td align="right">9 AM</td><td>Discover Rebreathers</td></tr>
 </tbody>
-</table> -->
+</table>
