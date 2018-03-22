@@ -18,6 +18,7 @@ OR donate a product or service with a retail value of $1000. The AUC will raffle
 ALSO: You are encouraged to offer a door prize at your booth that will attract attendees to your booth and allow you to collect contact information and build a mailing list.
 
 What you get with Option 1:
+
 1.	One 8 X 10-foot space for your display.
 2.	2 folding chairs.
 3.	One 6 foot table with skirting.
