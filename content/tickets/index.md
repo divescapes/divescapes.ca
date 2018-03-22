@@ -111,8 +111,8 @@ NOTE: Early bird prices are now in effect!
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
-      <li>Saturday Speakers and Seminars</li>
-      <li>NOTE: No meals.</li>
+      <li>Saturday Daytime Speakers</li>
+      <li>No Gala Dinner or Evening Speakers</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -140,8 +140,8 @@ NOTE: Early bird prices are now in effect!
   <div class="plan-features">
     <ul>
       <li>Trade Show Access</li>
-      <li>Saturday Speakers and Seminars</li>
-      <li>NOTE: No meals.</li>
+      <li>Saturday Daytime Speakers</li>
+      <li>No Gala Dinner or Evening Speakers</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -169,7 +169,7 @@ NOTE: Early bird prices are now in effect!
     <ul>
       <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
-      <li>Saturday Evening Speaker</li>
+      <li>Saturday Evening Speakers</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
