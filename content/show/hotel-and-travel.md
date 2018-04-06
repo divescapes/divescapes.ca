@@ -18,7 +18,7 @@ As a recently designated Cultural Capital of Canada, Calgary has come of age wit
 
 The host hotel for Divescapes 2018 is the Sandman Hotel Calgary Airport.
 
-11500 35 St SE #1000, Calgary, AB
+25 Hopewell Way, NE, Calgary, AB T3J 4V7
 
 A short drive from Calgary International Airport (YYC), Sandman Hotel Calgary Airport is the perfect combination of location and comfort.
 
@@ -28,7 +28,7 @@ Conveniently located near major tourist attractions, The Calgary Zoo, Cross Iron
 
 If you're travelling to the show, it is the most convenient hotel to stay in, and we have negotiated excellent rates for you.
 
-For reservations please call 1-800-SANDMAN (1-800-726-3626) or the hotel directly at 403-219-2480 and mention the Divescapes group code: Divescapes 2018 and Group #615160 for the show rate.
+For reservations please call 1-800-SANDMAN (1-800-726-3626) or the hotel directly at 403-219-2475 and mention the Divescapes group code: Divescapes 2018 and Group #615160 for the show rate.
 
 Show rates are as follows, subject to availability:
 

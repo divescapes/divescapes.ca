@@ -10,8 +10,6 @@ image3 = 7
 
 The best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
 
-PRICE REDUCTION on Day Pass – Thanks to all of our [Divescapes Sponsors](/sponsors/list/), the AUC gratefully announces newly reduced ticket prices for Saturday Day or Sat 1/2 Day Passes.
-
 NOTE: Early bird prices are now in effect!
 
 <div class="premium plan one-third column">
@@ -113,6 +111,7 @@ NOTE: Early bird prices are now in effect!
       <li>Trade Show Access</li>
       <li>Saturday Daytime Speakers</li>
       <li>No Gala Dinner or Evening Speakers</li>
+      <li>Must show current Student I.D. upon arrival.</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -142,6 +141,7 @@ NOTE: Early bird prices are now in effect!
       <li>Trade Show Access</li>
       <li>Saturday Daytime Speakers</li>
       <li>No Gala Dinner or Evening Speakers</li>
+      <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -170,6 +170,7 @@ NOTE: Early bird prices are now in effect!
       <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speakers</li>
+      <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
