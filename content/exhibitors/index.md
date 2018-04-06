@@ -12,7 +12,7 @@ aliases = [
 
 Option 1:
 
-**$500 cash
+**$500 CAD
 OR donate a product or service with a retail value of $1000. The AUC will raffle or sell your donated item.**
 
 ALSO: You are encouraged to offer a door prize at your booth that will attract attendees to your booth and allow you to collect contact information and build a mailing list.
@@ -38,7 +38,7 @@ What you get with Option 1:
 
 Option 2:  The AUC will staff your booth for you.
 
-**$1000 CAD: Cash Only
+**$1000 CAD
 You SAVE the expense of sending staff to Calgary. (Flights, Meals, Hotels and Taxi's)**
 
 ALSO: You are encouraged to offer a door prize at your booth that will attract attendees to your booth and allow us to collect contact information and build a mailing list for you.
