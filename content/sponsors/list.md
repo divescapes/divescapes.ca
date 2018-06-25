@@ -16,5 +16,5 @@ With the number of officially named dive sites in the Cayman Islands at 365, the
 Calm, clear waters, dramatic vertical walls, stunning shallow reefs, storied wreck and marine life galore.  Cayman is one of the world’s premier dive destinations.
 
 ## SPONSORS
-
+<br/><p>&nbsp;</p>
 <p><img src="/images/sponsors/saskatoon-av.png" border="0" /></p>
