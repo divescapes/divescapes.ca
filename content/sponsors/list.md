@@ -7,8 +7,14 @@ image2 = 4
 image3 = 2
 +++
 
-<p>We’re working hard to provide you with another stellar sponsor lineup for 2018.</p>
+## DONOR SPONSORS
 
-<p>Lineup with be posted soon!</p>
+<p><a href="https://www.visitcaymanislands.com/en-ca/"><img src="/images/sponsors/cayman.jpg" border="0" /></a></p>
 
-<p>Please check back later.</p>
+With the number of officially named dive sites in the Cayman Islands at 365, there are more reasons than ever to dive this destination!
+
+Calm, clear waters, dramatic vertical walls, stunning shallow reefs, storied wreck and marine life galore.  Cayman is one of the world’s premier dive destinations.
+
+## SPONSORS
+
+<p><img src="/images/sponsors/saskatoon-av.png" border="0" /></p>
