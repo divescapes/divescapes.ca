@@ -11,11 +11,11 @@ image3 = 6
 
 Ever wondered what the hype is about? Now’s your chance to try one out in the pool with qualified Rebreather Instructors!
 
-<p>**Workshop Leaders:** Bill Coltart, Terry Forsyth<br/>
-**Date:** Sunday, Oct 21, 2018<br/>
-**Class-time for Everyone:** 9am-10:30am<br/>
-**Choose Pool Times:** 11am-12pm, 12:30-1:30pm, 2-3pm, 3:30-4pm<br/>
-**Location:** Adventures in Scuba's Classroom &amp; Pool</p>
+<p><strong>Workshop Leaders:</strong> Bill Coltart, Terry Forsyth<br/>
+<strong>Date:</strong> Sunday, Oct 21, 2018<br/>
+<strong>Class-time for Everyone:</strong> 9am-10:30am<br/>
+<strong>Choose Pool Times:</strong> 11am-12pm, 12:30-1:30pm, 2-3pm, 3:30-4pm<br/>
+<strong>Location:</strong> Adventures in Scuba's Classroom &amp; Pool</p>
 
 Register Early, Times fill up fast!
 
