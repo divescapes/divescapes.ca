@@ -7,8 +7,33 @@ image2 = 5
 image3 = 6
 +++
 
-We’re working hard to provide you with another stellar workshop lineup for 2018.
+## DISCOVER REBREATHERS! Recreational & Tech
 
-Lineup with be posted soon!
+Ever wondered what the hype is about? Now’s your chance to try one out in the pool with qualified Rebreather Instructors!
 
-Please check back later.
+<p>**Workshop Leaders:** Bill Coltart, Terry Forsyth<br/>
+**Date:** Sunday, Oct 21, 2018<br/>
+**Class-time for Everyone:** 9am-10:30am<br/>
+**Choose Pool Times:** 11am-12pm, 12:30-1:30pm, 2-3pm, 3:30-4pm<br/>
+**Location:** Adventures in Scuba's Classroom &amp; Pool</p>
+
+Register Early, Times fill up fast!
+
+[More details are available in this PDF document.](/downloads/rebreather-workshop.pdf)
+
+$100 pp +GST
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="C7DY36KB4CQNA">
+<table>
+<tr><td><input type="hidden" name="on0" value="Choose Pool Times @Adventures in Scuba">Choose Pool Times @Adventures in Scuba</td></tr><tr><td><select name="os0">
+              <option value="11:00 AM-12:00 PM">11:00 AM-12:00 PM </option>
+               <option value="12:30-1:30 PM">12:30-1:30 PM </option>
+               <option value="2-3 PM">2-3 PM </option>
+               <option value="3:30-4:30 PM">3:30-4:30 PM </option>
+</select> </td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
