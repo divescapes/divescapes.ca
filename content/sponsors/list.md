@@ -18,3 +18,59 @@ Calm, clear waters, dramatic vertical walls, stunning shallow reefs, storied wre
 ## SPONSORS
 <br/><p>&nbsp;</p>
 <p><img src="/images/sponsors/saskatoon-av.png" border="0" /></p>
+
+<table width="100%"><tr><td>
+Air Chek Lab<br/>
+14 Chippewa Road,<br/>
+Sherwood Park, AB<br/>
+T8A 3Y1</td><td>
+Brian Nadwidny, General Mgr<br/>
+Office: 780-467-0972<br/>
+Mobile: 780-297-0972<br/>
+Fax: 780-416-6913
+</td></tr></table>
+<br/>
+[http://www.aircheklab.ca/](http://www.aircheklab.ca/)
+
+<p><img src="/images/sponsors/AquasportScuba.jpg" border="0" /></p>
+
+At Aqua Sport, we have the largest variety of the world's finest brands of scuba diving and snorkeling equipment; coupled with the greatest volume of inventory at the absolute best prices, presented to you by our very experienced, knowledgeable & friendly staff. Please stop by Aqua Sport's booth for smoking Divescapes deals!
+
+[www.aquasportscuba.com](http://www.aquasportscuba.com/)
+
+<a href="http://www.bonairedivevilla.com/"><img src="/images/sponsors/BonaireDiveVilla2.jpg" alt=""></a>
+
+BonaireDiveVilla.com proudly provides exclusively to Divescapes Gold Pass Holders only – DRAW PRIZE: One Week Condo Accommodations at [BonaireDiveVilla.com](http://www.bonairedivevilla.com/) in Bonaire (sleeps 4), low season, no cash value, must be used as offered.
+
+Welcome to Bonaire - the Caribbean's scuba diving & snorkeling paradise! The Villa Makoshi Lower Level is truly your Bonaire villa rental home away from home  - perfect for your scuba diving and snorkeling vacation. Featuring condo rental of the entire lower level of Villa Makoshi, which includes two bedrooms, two and a half bathrooms, kitchen, dining room, living room, laundry, covered patio, gear rinse area, plus secure off-street parking, shared swimming pool & courtyard.
+
+VILLA MAKOSHI​, LOWER LEVEL
+
+Physical Address:<br/>
+76-4 Kaya Gob N Debrot<br/>
+Bonaire
+
+[Info@BonaireDiveVilla.com​](mailto:Info@BonaireDiveVilla.com​)<br/>
+Tel: 780-483-0044 (Canada)<br/>
+Skype: the.dive.outfitters
+
+Mailing Address:
+
+c/o The Dive Outfitters<br/>
+11781 - 156 Street<br/>
+Edmonton, Alberta, Canada
+
+
+<p><img src="/images/sponsors/diver-magazine.jpg" border="0" /></p>
+
+DIVER magazine is North America's longest-established diving magazine with over 40 years publishing experience. Hugely respected within the dive industry DIVER has an advisory board consisting of Sylvia Earle, James Cameron, David Doubilet, and Stan Waterman, with regular columns from Jill Heinerth, Jean-Michel Coustea, Dr David Sawatzky, and Publisher Phil Nuytten. DIVER isn't just another scuba magazine - you won't find 20 pages of snorkel reviews here! We pride ourselves by printing some of the best sub aquatic feature articles you'll find anywhere. Underwater archaeology, exploration, unique travel and experiences, advice and tips from the industries brightest stars, and some thought provoking articles to get you thinking.
+
+[www.divermag.com](http://www.divermag.com)
+
+[www.facebook.com/divermagazine](https://www.facebook.com/divermagazine)
+
+<p><img src="/images/sponsors/wdsc.gif" border="0" /></p>
+
+The Wing Divers Scuba Club
+
+The Wing Divers Scuba Club (Edmonton) hosts a variety of activities for members – both divers and non-diving partners. We have several opportunities to participate for local, avid, cold water diving fun at our dive training facility at Twin Lakes (near Winfield, County of Wetaskiwin, Alberta).  Plus join us for winter tropical dive travel, summer socials, even pool rentals through-out the year for swim fitness or scuba practice.

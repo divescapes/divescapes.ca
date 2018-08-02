@@ -26,3 +26,38 @@ Come visit us at Divescapes - enter our draw for some awesome prizes and gift ca
 **Come Explore the Experience with The Dive Shop!**
 
 For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
+
+<p><img src="/images/exhibitors/sh.jpg" border="0" /></p>
+
+Squba Holidays
+
+Squba Holidays worldwide dive adventures provides superior dive travel arrangements to the premier dive resorts &amp; liveaboards worldwide. Our dive resorts are selected solely on the basis of providing you, our clients, with good value and consistent, reliable &amp; uncompromising levels of service. We believe in providing dive travel packages that meet our standards and your expectations. We invite you to experience the Squba Holidays difference.
+
+[www.SqubaHolidays.com](http://www.squbaholidays.com/)
+
+<table width="100%"><tr><td>
+Air Chek Lab<br/>
+14 Chippewa Road,<br/>
+Sherwood Park, AB<br/>
+T8A 3Y1</td><td>
+Brian Nadwidny, General Mgr<br/>
+Office: 780-467-0972<br/>
+Mobile: 780-297-0972<br/>
+Fax: 780-416-6913
+</td></tr></table>
+<br/>
+[http://www.aircheklab.ca/](http://www.aircheklab.ca/)
+
+<p><img src="/images/sponsors/AquasportScuba.jpg" border="0" /></p>
+
+At Aqua Sport, we have the largest variety of the world's finest brands of scuba diving and snorkeling equipment; coupled with the greatest volume of inventory at the absolute best prices, presented to you by our very experienced, knowledgeable & friendly staff. Please stop by Aqua Sport's booth for smoking Divescapes deals!
+
+[www.aquasportscuba.com](http://www.aquasportscuba.com/)
+
+<p><img src="/images/exhibitors/dd.png" border="0" /></p>
+
+Divers Den, Boat Charter, Tobermory, ON
+
+This summer come to Tobermory, "Canada's Scuba Diving and Snorkeling Capital", where you can dive and snorkel in the incredibly clear waters of Lake Huron and Georgian Bay. Come explore over 20 shipwrecks, some of which sank more than 100 years ago.
+
+[http://www.diversden.ca/](www.diversden.ca)
