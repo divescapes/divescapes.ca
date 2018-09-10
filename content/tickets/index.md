@@ -16,7 +16,7 @@ NOTE: Early bird prices are now in effect!
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$139.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$179.00 + GST</strikethrough></span>
 
   </div>
   <div class="plan-features">
@@ -42,7 +42,7 @@ NOTE: Early bird prices are now in effect!
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$79.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$119.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -72,7 +72,7 @@ NOTE: Early bird prices are now in effect!
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$119.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$149.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -163,7 +163,7 @@ NOTE: Early bird prices are now in effect!
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$99.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$139.00 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
