@@ -100,3 +100,9 @@ Lethbridge, Alberta T1J 0P7<br/>
 Spend an unforgettable day scuba diving or touring the beautiful waters and shores around Nanaimo, BC.  Walls, wrecks & reefs provide incredible sea-life to view.  We can provide support for new divers and experienced divers, deco, tri-mix and rebreather divers!
 
 <p><a href="http://www.nanaimodiveoutfitters.ca/charter">http://www.nanaimodiveoutfitters.ca/charter</a></p>
+
+<p><a href="http://flyandsea.com/"><img src="/images/sponsors/FlyandSeaDive.jpg" border="0" /></a></p>
+
+Fly & Sea Dive Adventures is Canada's largest dive travel company, having sent divers on scuba vacations to mostly warm water dive destinations world-wide since 1997.  We specialize in unique, custom trips that combine diving with cultural and soft adventure experiences. Our attention to detail has earned us many satisfied clients in over 20 years of business. Our Divescapes display will feature trip ideas, our catalogue & informative video.
+
+<p><a href="http://www.flyandsea.com">www.flyandsea.com</a></p>
