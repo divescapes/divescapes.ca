@@ -106,3 +106,5 @@ Spend an unforgettable day scuba diving or touring the beautiful waters and shor
 Fly & Sea Dive Adventures is Canada's largest dive travel company, having sent divers on scuba vacations to mostly warm water dive destinations world-wide since 1997.  We specialize in unique, custom trips that combine diving with cultural and soft adventure experiences. Our attention to detail has earned us many satisfied clients in over 20 years of business. Our Divescapes display will feature trip ideas, our catalogue & informative video.
 
 <p><a href="http://www.flyandsea.com">www.flyandsea.com</a></p>
+
+<p><a href="https://ca.momentumwatch.com/"><img src="/images/sponsors/momentum.jpg" border="0" /></a></p>
