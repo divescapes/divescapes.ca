@@ -19,6 +19,8 @@ Calm, clear waters, dramatic vertical walls, stunning shallow reefs, storied wre
 <br/><p>&nbsp;</p>
 <p><img src="/images/sponsors/saskatoon-av.png" border="0" /></p>
 
+<p><img src="/images/sponsors/AirChekLab.jpg" border="0" /></p>
+
 <table width="100%"><tr><td>
 Air Chek Lab<br/>
 14 Chippewa Road,<br/>

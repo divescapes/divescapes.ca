@@ -35,6 +35,8 @@ Squba Holidays worldwide dive adventures provides superior dive travel arrangeme
 
 [www.SqubaHolidays.com](http://www.squbaholidays.com/)
 
+<p><img src="/images/sponsors/AirChekLab.jpg" border="0" /></p>
+
 <table width="100%"><tr><td>
 Air Chek Lab<br/>
 14 Chippewa Road,<br/>
