@@ -63,3 +63,14 @@ Divers Den, Boat Charter, Tobermory, ON
 This summer come to Tobermory, "Canada's Scuba Diving and Snorkeling Capital", where you can dive and snorkel in the incredibly clear waters of Lake Huron and Georgian Bay. Come explore over 20 shipwrecks, some of which sank more than 100 years ago.
 
 [http://www.diversden.ca/](www.diversden.ca)
+
+<p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
+
+Shearwater Research Inc. is a Vancouver, Canada-based designer and manufacturer of technical diving computers and rebreather control systems.  Shearwater’s advanced rebreather control systems and dive computers meet divers’ essential needs for powerful and reliable diving technology.  The devices offer divers state-aware and insightful choices during stressful underwater situations.  This commitment to simplicity and reliability has established Shearwater as the recognized world leader in our field.
+
+Shearwater Research Inc.<br/>
+Unit 250, 13155 Delf Place, Richmond, BC V6V 2A2<br/>
+Tel: 604-669-9958 | Fax: 604-681-4982<br/>
+[www.shearwater.com](http://www.shearwater.com)
+
+Find Shearwater Research products at your local Alberta dealers including:

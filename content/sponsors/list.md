@@ -76,3 +76,14 @@ DIVER magazine is North America's longest-established diving magazine with over 
 The Wing Divers Scuba Club
 
 The Wing Divers Scuba Club (Edmonton) hosts a variety of activities for members – both divers and non-diving partners. We have several opportunities to participate for local, avid, cold water diving fun at our dive training facility at Twin Lakes (near Winfield, County of Wetaskiwin, Alberta).  Plus join us for winter tropical dive travel, summer socials, even pool rentals through-out the year for swim fitness or scuba practice.
+
+<p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
+
+Shearwater Research Inc. is a Vancouver, Canada-based designer and manufacturer of technical diving computers and rebreather control systems.  Shearwater’s advanced rebreather control systems and dive computers meet divers’ essential needs for powerful and reliable diving technology.  The devices offer divers state-aware and insightful choices during stressful underwater situations.  This commitment to simplicity and reliability has established Shearwater as the recognized world leader in our field.
+
+Shearwater Research Inc.<br/>
+Unit 250, 13155 Delf Place, Richmond, BC V6V 2A2<br/>
+Tel: 604-669-9958 | Fax: 604-681-4982<br/>
+[www.shearwater.com](http://www.shearwater.com)
+
+Find Shearwater Research products at your local Alberta dealers including:
