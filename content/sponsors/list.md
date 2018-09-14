@@ -91,3 +91,5 @@ Tel: 604-669-9958 | Fax: 604-681-4982<br/>
 Spend an unforgettable day scuba diving or touring the beautiful waters and shores around Nanaimo, BC.  Walls, wrecks & reefs provide incredible sea-life to view.  We can provide support for new divers and experienced divers, deco, tri-mix and rebreather divers!
 
 <p><a href="http://www.nanaimodiveoutfitters.ca/charter">http://www.nanaimodiveoutfitters.ca/charter</a></p>
+
+<p><a href="http://www.underwateroutlaws.com/"><img src="/images/sponsors/outlaws.jpg" border="0" /></a></p>

@@ -86,3 +86,15 @@ Fly & Sea Dive Adventures is Canada's largest dive travel company, having sent d
 <p><a href="http://www.flyandsea.com">www.flyandsea.com</a></p>
 
 <p><a href="https://ca.momentumwatch.com/"><img src="/images/sponsors/momentum.jpg" border="0" /></a></p>
+
+<p><a href="https://bigbluedivelights.com/"><img src="/images/sponsors/bigblue.png" border="0" /></a></p>
+
+Bigblue Dive Lights continues to lead the dive light industry in developing innovative lights and accessories, including focusable and hands-free options!
+
+<p><a href="https://aquadiveandwatersports.com/"><img src="/images/sponsors/aquadive.png" border="0" /></a></p>
+
+Aqua Dive and Watersports offers a wide range of brands for scuba diving and snorkeling at competitive prices.  Being a PADI Dive Centre, we provide quality training. We also service all makes & models of dive gear.  We will be showcasing new brands as well as amazing prices, matching  our longstanding experience and service.
+
+<p><a href="https://www.calgaryscuba.com/"><img src="/images/sponsors/calgaryscuba.png" border="0" /></a></p>
+
+Dive Training has been Redefined with Calgary Scuba. As Calgary's only TDI and SDI 5 Star Instructor Training Facility, our Instructors have been trained by a minimum of two internationally recognized training agencies to assist in the advancement of your dive training. Start diving the world today with SDI. With a fully stocked retail store, and access to a full-size training pool, you are sure to get the best experience possible. Come see us at Divescapes 2018 for unbelievable show specials on the full line of Light and Motion Dive Lights. At Calgary Scuba, "Life just doesn’t get any wetter than this!"
