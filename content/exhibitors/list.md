@@ -85,8 +85,6 @@ Fly & Sea Dive Adventures is Canada's largest dive travel company, having sent d
 
 <p><a href="http://www.flyandsea.com">www.flyandsea.com</a></p>
 
-<p><a href="https://ca.momentumwatch.com/"><img src="/images/sponsors/momentum.jpg" border="0" /></a></p>
-
 <p><a href="https://bigbluedivelights.com/"><img src="/images/sponsors/bigblue.png" border="0" /></a></p>
 
 Bigblue Dive Lights continues to lead the dive light industry in developing innovative lights and accessories, including focusable and hands-free options!

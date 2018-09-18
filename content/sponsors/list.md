@@ -93,3 +93,5 @@ Spend an unforgettable day scuba diving or touring the beautiful waters and shor
 <p><a href="http://www.nanaimodiveoutfitters.ca/charter">http://www.nanaimodiveoutfitters.ca/charter</a></p>
 
 <p><a href="http://www.underwateroutlaws.com/"><img src="/images/sponsors/outlaws.jpg" border="0" /></a></p>
+
+<p><a href="https://ca.momentumwatch.com/"><img src="/images/sponsors/momentum.jpg" border="0" /></a></p>
