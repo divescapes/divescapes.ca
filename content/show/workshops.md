@@ -69,6 +69,8 @@ Divers, learn what your need to know to reduce the risk of DCS!! What to do if y
 
 [More details are available in this PDF document.](/downloads/dcs.pdf)
 
+$25 pp +GST
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="B6CYWBXEKDT3S">
