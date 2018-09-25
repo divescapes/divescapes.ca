@@ -45,7 +45,7 @@ Sign-up for a brief over-view of shipwreck diving exploration. For those who hav
 <p><strong>Workshop Leader:</strong> Richie Kohler (World renowned deep wreck explorer)<br/>
 <strong>Date:</strong> Friday, Oct 19th, 2018, 1-3 PM<br/>
 <strong>Location:</strong> Commonwealth Conference Centre<br/>
-<strong>Deadline:</strong> Oct 19/18</p>
+<strong>Deadline:</strong> Oct 19/2018</p>
 
 [More details are available in this PDF document.](/downloads/wrecks-101.pdf)
 
@@ -54,6 +54,24 @@ $25 pp +GST
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="EC7XR3R8BLSZ2">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+## DCS - Decompression Sickness Workshop
+
+Divers, learn what your need to know to reduce the risk of DCS!! What to do if you think you or your buddy are bent?? We will look at signs &amp; symptoms with possible treatments &amp; complications.  Plus case studies & personal accounts of DCS. By the end of this workshop you should know how to reduce your personal risk &amp; know what to expect if you do need treatment.
+
+<p><strong>Workshop Leader:</strong> Sherri Ferguson (Hyperbaric Scientist, Simon Fraser University)<br/>
+<strong>Date:</strong> Sunday, Oct 21st, 2018, 10 AM - 12 NOON<br/>
+<strong>Location:</strong> Commonwealth Conference Centre<br/>
+<strong>Deadline:</strong> Oct 20/2018</p>
+
+[More details are available in this PDF document.](/downloads/dcs.pdf)
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="B6CYWBXEKDT3S">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
