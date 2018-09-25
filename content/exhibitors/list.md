@@ -37,6 +37,8 @@ Squba Holidays worldwide dive adventures provides superior dive travel arrangeme
 
 <p><img src="/images/sponsors/AirChekLab.jpg" border="0" /></p>
 
+Compressed Breathing Air Analysis and Medical Gas Testing our specialty. Air Chek Lab has over 30 years’ experience in air &amp; gas testing for life support applications such as fire-fighting, hazardous environmental work (paint booth &amp; sandblasting), medical gas supply and scuba diving. We service the western provinces, the Yukon, Nunavut and the Northwest Territories. Member of Compressed Air Proficiency Testing group (CAPT). CAPT protocol listed with American Industrial Hygiene Association (AIHA).
+
 <table width="100%"><tr><td>
 Air Chek Lab<br/>
 14 Chippewa Road,<br/>
