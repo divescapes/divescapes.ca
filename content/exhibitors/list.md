@@ -7,6 +7,20 @@ image2 = 17
 image3 = 18
 +++
 
+<p><a href="http://adventuresinscuba.com"><img src="/images/exhibitors/ais.png" border="0" /></a></p>
+
+Come celebrate 20 years of diving excellence!
+
+ADVENTURES IN SCUBA
+
+2O years serving the scuba diving and snorkelling communities…
+
+Courses, Equipment, Service, Travel
+
+Come see what it means to belong to a supportive and friendly scuba family!
+
+<p><a href="http://adventuresinscuba.com">adventuresinscuba.com<a/></p>
+
 <p><a href="https://www.visitcaymanislands.com/en-ca/"><img src="/images/sponsors/cayman.jpg" border="0" /></a></p>
 
 With the number of officially named dive sites in the Cayman Islands at 365, there are more reasons than ever to dive this destination!
