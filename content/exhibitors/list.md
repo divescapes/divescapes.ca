@@ -112,3 +112,11 @@ Aqua Dive and Watersports offers a wide range of brands for scuba diving and sno
 <p><a href="https://www.calgaryscuba.com/"><img src="/images/sponsors/calgaryscuba.png" border="0" /></a></p>
 
 Dive Training has been Redefined with Calgary Scuba. As Calgary's only TDI and SDI 5 Star Instructor Training Facility, our Instructors have been trained by a minimum of two internationally recognized training agencies to assist in the advancement of your dive training. Start diving the world today with SDI. With a fully stocked retail store, and access to a full-size training pool, you are sure to get the best experience possible. Come see us at Divescapes 2018 for unbelievable show specials on the full line of Light and Motion Dive Lights. At Calgary Scuba, "Life just doesn’t get any wetter than this!"
+
+<p><a href="https://www.seadragoncharters.com/"><img src="/images/exhibitors/seadragon.png" border="0" /></a></p>
+
+Sea Dragon Charters
+
+Sea Dragon Charters has been providing professional dive charter services for over 20 years in British Columbia.  We can also provide rentals, dive guides, hotels, air-fills &amp much more!
+
+<p><a href="https://www.seadragoncharters.com/">www.seadragoncharters.com</a></p>
