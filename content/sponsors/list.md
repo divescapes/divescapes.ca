@@ -17,7 +17,7 @@ Calm, clear waters, dramatic vertical walls, stunning shallow reefs, storied wre
 
 ## SPONSORS
 <br/><p>&nbsp;</p>
-<p><img src="/images/sponsors/saskatoon-av.png" border="0" /></p>
+<p><a href="http://saskatoonaudiovisual.ca/"><img src="/images/sponsors/saskatoon-av.png" border="0" /></a></p>
 
 <p><img src="/images/sponsors/AirChekLab.jpg" border="0" /></p>
 
