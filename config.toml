@@ -1,4 +1,4 @@
-baseurl = "http://www.divescapes.ca/"
+baseurl = "https://divescapes-calgary.netlify.com/"
 languageCode = "en-us"
 title = "Divescapes 2018"
 disableKinds = ["RSS","taxonomy","section","taxonomyTerm"]
