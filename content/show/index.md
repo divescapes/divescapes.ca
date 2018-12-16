@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference &amp; Exhibition"
 image1 = 10
 image2 = 11
 image3 = 12
+aliases = [
+  "/show/"
+]
 +++
 
 We’re working hard to provide you with another stellar schedule for Divescapes 2018 which is happening on October 19 - 21.

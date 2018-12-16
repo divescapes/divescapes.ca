@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 image1 = 9
 image2 = 8
 image3 = 7
+aliases = [
+  "/show/videos/"
+]
 +++
 
 <iframe src="https://player.vimeo.com/video/154208839" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

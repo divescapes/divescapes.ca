@@ -2,6 +2,9 @@
 date        = "2015-09-03"
 title       = "About"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+aliases = [
+  "/about/"
+]
 +++
 
 <img src="/images/logos/auc.jpg" width="300" height="105" align="right" alt="Alberta Underwater Council" / style="width:300px;height:105px;">

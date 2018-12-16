@@ -6,6 +6,9 @@ tags        = [ "wide" ]
 image1 = 3
 image2 = 5
 image3 = 7
+aliases = [
+  "/tickets/"
+]
 +++
 
 The best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.

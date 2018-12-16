@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 image1 = 13
 image2 = 14
 image3 = 15
+aliases = [
+  "/show/hotel-and-travel/"
+]
 +++
 
 <p>&nbsp;</p>

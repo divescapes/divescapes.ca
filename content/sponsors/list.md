@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 image1 = 6
 image2 = 4
 image3 = 2
+aliases = [
+  "/sponsors/list/"
+]
 +++
 
 ## DONOR SPONSORS

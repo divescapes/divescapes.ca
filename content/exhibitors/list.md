@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 image1 = 16
 image2 = 17
 image3 = 18
+aliases = [
+  "/exhibitors/list/"
+]
 +++
 
 <p><a href="http://adventuresinscuba.com"><img src="/images/exhibitors/ais.png" border="0" /></a></p>

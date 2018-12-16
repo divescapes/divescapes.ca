@@ -5,6 +5,9 @@ description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 image1 = 4
 image2 = 5
 image3 = 6
+aliases = [
+  "/show/workshops/"
+]
 +++
 
 ## DISCOVER REBREATHERS! Recreational & Tech
