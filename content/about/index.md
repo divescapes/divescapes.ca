@@ -25,11 +25,11 @@ Here are just a few of the AUC's important programs:
 Please contact Cathie at the AUC Office during regular business hours or send an email to [info@albertaunderwatercouncil.com](mailto:info@albertaunderwatercouncil.com)
 
 *Alberta Underwater Council*<br/>
-[www.albertaunderwatercouncil.com](www.albertaunderwatercouncil.com)<br/>
+[www.albertaunderwatercouncil.com](http://www.albertaunderwatercouncil.com)<br/>
 11759 Groat Road, (2nd Floor, Percy Page Centre)<br/>
 Edmonton, AB  Canada  T5M 3K6<br/>
 Office Hrs: M-F, 10am-4pm<br/>
 Ph: 780-427-9125<br/>
 Toll Free: 1-888-307-8566<br/>
 Fax: 780-427-8139<br/>
-[info@albertaunderwatercouncil.com](info@albertaunderwatercouncil.com)
+[info@albertaunderwatercouncil.com](mailto:info@albertaunderwatercouncil.com)

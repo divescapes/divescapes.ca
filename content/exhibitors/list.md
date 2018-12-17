@@ -39,7 +39,7 @@ Come visit us at Divescapes - enter our draw for some awesome prizes and gift ca
 
 **Come Explore the Experience with The Dive Shop!**
 
-For exhibitor information - please see the [Exhibitor Information page](/exhibitors/info/).
+For exhibitor information - please see the [Exhibitor Information page](/exhibitors/).
 
 <p><img src="/images/exhibitors/sh.jpg" border="0" /></p>
 
@@ -78,7 +78,7 @@ Divers Den, Boat Charter, Tobermory, ON
 
 This summer come to Tobermory, "Canada's Scuba Diving and Snorkeling Capital", where you can dive and snorkel in the incredibly clear waters of Lake Huron and Georgian Bay. Come explore over 20 shipwrecks, some of which sank more than 100 years ago.
 
-[http://www.diversden.ca/](www.diversden.ca)
+[http://www.diversden.ca/](http://www.diversden.ca)
 
 <p><img src="/images/sponsors/shearwater.jpg" border="0" /></p>
 

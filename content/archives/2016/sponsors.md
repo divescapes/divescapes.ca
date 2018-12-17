@@ -83,7 +83,7 @@ Seaproof.tv is an underwater video and design company, with a strong focus on th
 
 [www.seaproof.tv](http://www.seaproof.tv)
 
-Like us on Facebook: [www.facebook.com/seaprooftv](www.facebook.com/seaprooftv)
+Like us on Facebook: [www.facebook.com/seaprooftv](https://www.facebook.com/seaprooftv)
 
 <p><img src="/images/sponsors/diver-magazine.jpg" border="0" /></p>
 
