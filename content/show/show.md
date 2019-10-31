@@ -10,7 +10,7 @@ aliases = [
 ]
 +++
 
-We’re working hard to provide you with another stellar schedule for Divescapes 2018 which is happening on October 19 - 21.
+We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
 
 <h2>Show Schedule (Tentative)</h2>
 
@@ -21,16 +21,16 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Friday, Oct 19th</strong></th>
+<th><strong>Friday, Oct 23/20</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">1:00 PM</td><td>Workshop - Wreck Diver 101 - With Richie Kohler- World Renowned Deep Wreck Explorer (until 3 pm) on site @ Commonwealth Centre</td></tr>
+<tr><td align="right">1:00 PM</td><td>Workshop - TBA (until 3 pm) on site @ River Cree Resort & Casino</td></tr>
 <tr><td align="right">4:00 PM</td><td>Registration Opens, visit Divescapes Exhibitors, socialize</td></tr>
 <tr><td align="right">5:00 PM</td><td>Dinner Served (until 6:30pm)</td></tr>
-<tr><td align="right">6:30 PM</td><td>Divescapes Guest Speakers: Nick Lucey/Aaron Faulls – Hosts of TV’s “Into the Drink”</td></tr>
+<tr><td align="right">6:30 PM</td><td>Divescapes Guest Speakers: TBA</td></tr>
 <tr><td align="right">7:00 PM</td><td>Break</td></tr>
-<tr><td align="right">7:15 PM</td><td>Divescapes Speaker: Keith Sahm – Force Blue Founder</td></tr>
+<tr><td align="right">7:15 PM</td><td>Divescapes Speaker: TBA</td></tr>
 <tr><td align="right">8:00 PM</td><td>Reception - mingle with our VIP Guest Speakers, Exhibitors, Gold Pass Holders, socialize (cash bar extra until 10:00 PM)</td></tr>
 </tbody>
 </table>
@@ -38,20 +38,20 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Saturday, Oct 20th</strong></th>
+<th><strong>Saturday, Oct 24th</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
 <tr><td align="right">8:00 AM</td><td>Registration Opens</td></tr>
-<tr><td align="right">9:00 AM</td><td>Divescapes Guest Speaker: Sherri Ferguson – Hyperbaric Chamber Scientist</td></tr>
+<tr><td align="right">9:00 AM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">9:45 AM</td><td>Break</td></tr>
-<tr><td align="right">10:15 AM</td><td>Divescapes Guest Speaker: Trisha Stovel/Russel Clarke – Vancouver Based Film Makers</td></tr>
+<tr><td align="right">10:15 AM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">11:00 AM</td><td>Break</td></tr>
-<tr><td align="right">11:30 AM</td><td>Divescapes Guest Speaker: Cristina Zenato – Shark Diving Professional &amp; Conservationist</td></tr>
-<tr><td align="right">12:15 PM</td><td>Lunch Break: visit with Exhibitors &amp; purchase lunch at Commonwealth Conference Centre</td></tr>
-<tr><td align="right">1:30 PM</td><td>Divescapes Guest Speaker: Erik Brown – Thailand Cave Rescuer</td></tr>
+<tr><td align="right">11:30 AM</td><td>Divescapes Guest Speaker: TBA</td></tr>
+<tr><td align="right">12:15 PM</td><td>Lunch Break: visit with Exhibitors &amp; purchase lunch at variety of venues here at the River Cree Resort & Casino</td></tr>
+<tr><td align="right">1:30 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">2:15 PM</td><td>Break</td></tr>
-<tr><td align="right">2:45 PM</td><td>Divescapes Guest Speaker: Natalie Gibb – Mexico Cave Explorer</td></tr>
+<tr><td align="right">2:45 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">3:30 PM</td><td>Break</td></tr>
 <tr><td align="right">4:00 PM</td><td>Divescapes Guest Speaker: Jared Hires – Advanced Tech Diver</td></tr>
 <tr><td align="right">4:45 PM</td><td>Afternoon Presentation end, Exhibitors close-up &amp; site preparations for Gala Dinner &amp; Keynote Presentations</td></tr>
@@ -65,14 +65,14 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Sunday, Oct 21st</strong></th>
+<th><strong>Sunday, Oct 25</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">8 AM</td><td>PSI – Visual Scuba Tank Inspection Course (off-site, contact Aqua Dive &amp; Watersports, Airdrie)</td></tr>
-<tr><td align="right">9 AM</td><td>Discover Rebreathers with Rebreather Instructors: Terry Forsyth, Bill Coltart &amp; Special Guest Instructor: Jared Hires (off-site @ Adventures in Scuba's facility - 9950 McLeod Trail South, Calgary)</td></tr>
-<tr><td align="right">10 AM</td><td>DCS - Decompression Sickness with Sherri Ferguson, Hyperbaric Chamber Scientist - What divers need to know to reduce risk of DCS  (10 AM until Noon, on site)</td></tr>
+<tr><td align="right">8 AM</td><td>PSI – Visual Scuba Tank Inspection Course TBA</td></tr>
+<tr><td align="right">9 AM</td><td>Discover Rebreathers with Rebreather Instructors: TBA
+<tr><td align="right">10 AM</td><td>DCS - DTBA
 </tbody>
 </table>
 
-The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 23 years!  Our volunteers are working hard to bring an even bigger and better show in 2018! New speakers and new exhibitors in a great new venue, with our thanks to Commonwealth Centre in NE Calgary!
+The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue)!
