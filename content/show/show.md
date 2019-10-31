@@ -21,7 +21,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Friday, Oct 23/20</strong></th>
+<th><strong>Friday, Oct 23/2020</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -48,17 +48,17 @@ th, td { padding: 5px; }
 <tr><td align="right">10:15 AM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">11:00 AM</td><td>Break</td></tr>
 <tr><td align="right">11:30 AM</td><td>Divescapes Guest Speaker: TBA</td></tr>
-<tr><td align="right">12:15 PM</td><td>Lunch Break: visit with Exhibitors &amp; purchase lunch at variety of venues here at the River Cree Resort & Casino</td></tr>
+<tr><td align="right">12:15 PM</td><td>Lunch Break: visit with Exhibitors &amp; purchase lunch at variety of venues within the River Cree Resort & Casino</td></tr>
 <tr><td align="right">1:30 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">2:15 PM</td><td>Break</td></tr>
 <tr><td align="right">2:45 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">3:30 PM</td><td>Break</td></tr>
-<tr><td align="right">4:00 PM</td><td>Divescapes Guest Speaker: Jared Hires – Advanced Tech Diver</td></tr>
+<tr><td align="right">4:00 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">4:45 PM</td><td>Afternoon Presentation end, Exhibitors close-up &amp; site preparations for Gala Dinner &amp; Keynote Presentations</td></tr>
 <tr><td align="right">6:00 PM</td><td>Cocktails w/Divescapes Guests Speakers, Gold Pass Holders, Gala Dinner Ticket Holders (cash bar extra)</td></tr>
 <tr><td align="right">6:30 PM</td><td>GALA Dinner Served with Prize Announcements</td></tr>
-<tr><td align="right">8:00 PM</td><td>Divescapes Keynote Presentation: Aaron Faulls &amp; Nick Lucey – Film Markers &amp; Hosts of TV’s “Into the Drink”</td></tr>
-<tr><td align="right">8:45 PM</td><td>Divescapes Keynote Presentation: Richie Kohler – World-Renowned Deep Wreck Explorer</td></tr>
+<tr><td align="right">8:00 PM</td><td>Divescapes Keynote Presentation: TBA
+<tr><td align="right">8:45 PM</td><td>Divescapes Keynote Presentation: TBA</td></tr>
 </tbody>
 </table>
 <br/>
