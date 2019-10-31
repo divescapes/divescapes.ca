@@ -18,4 +18,4 @@ aliases = [
 
 300 East Lapotac Blvd Box 179
 
-Enoch, Alberta T7X 3Y3
+Edmonton, Alberta T7X 3Y3
