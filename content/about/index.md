@@ -13,12 +13,14 @@ The Alberta Underwater Council is the non profit representative body for underwa
 
 **Our mission statement:** The AUC represents & encourages responsible participation in and an awareness of the many underwater activities available in Alberta while seeking to preserve the aquatic environment.
 
+**Celebrating AUC's 60th Anniversary in 2020** Join with us to help celebrate this amazing milestone anniversary!
+
 Here are just a few of the AUC's important programs:
 
 * Discover Scuba Experience Program for Youths & Schools
 * Intro to Underwater Hockey Sessions
 * Discover Local Diving at AUC's Annual Dive Alberta Events & Lake Cleanups!!
-* The AUC's Divescapes Scuba Conference & Exhibition
+* AUC's Divescapes Scuba Conference & Exhibition - celebrating 25 years of AUC volunteers organizing this amazing scuba show!!
 
 **Questions?**
 
@@ -28,7 +30,7 @@ Please contact Cathie at the AUC Office during regular business hours or send an
 [www.albertaunderwatercouncil.com](http://www.albertaunderwatercouncil.com)<br/>
 11759 Groat Road, (2nd Floor, Percy Page Centre)<br/>
 Edmonton, AB  Canada  T5M 3K6<br/>
-Office Hrs: M-F, 10am-4pm<br/>
+Office Hrs: TWT, 10am-3pm<br/>
 Ph: 780-427-9125<br/>
 Toll Free: 1-888-307-8566<br/>
 Fax: 780-427-8139<br/>
