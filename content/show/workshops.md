@@ -30,7 +30,7 @@ COST: TBA
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="C7DY36KB4CQNA">
 <table>
-<tr><td><input type="hidden" name="on0" value="Choose Pool Times @Adventures in Scuba">Choose Pool Times @Adventures in Scuba</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Choose Pool Times Location: TBA ">Choose Pool Times </td></tr><tr><td><select name="os0">
               <option value="11:00 AM-12:00 PM">11:00 AM-12:00 PM </option>
                <option value="12:30-1:30 PM">12:30-1:30 PM </option>
                <option value="2-3 PM">2-3 PM </option>
