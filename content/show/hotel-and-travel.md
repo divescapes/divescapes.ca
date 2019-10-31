@@ -13,6 +13,7 @@ aliases = [
 <p>&nbsp;</p>
 <h2>About Edmonton</h2>
 <p>&nbsp;</p>
+(to come)
 
 [Rivercree Resort and Casino](https://www.rivercreeresort.com/)
 
