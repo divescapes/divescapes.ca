@@ -12,8 +12,6 @@ aliases = [
 
 We’re working hard to provide you with another stellar schedule for Divescapes 2018 which is happening on October 19 - 21.
 
-<h2>Show Location</h2>
-
 <h2>Show Schedule (Tentative)</h2>
 
 <style type="text/css">
