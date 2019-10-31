@@ -1,5 +1,5 @@
 +++
-date        = "2015-09-03"
+date        = "2019-10-31"
 title       = "Tickets"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 tags        = [ "wide" ]
@@ -17,7 +17,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$179.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
 
   </div>
   <div class="plan-features">
@@ -43,7 +43,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$119.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -73,7 +73,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Saturday All Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$149.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -105,7 +105,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Saturday Student Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">29.00 + GST</span>
+    <span class="value">$TBA + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -135,7 +135,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Saturday Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">39.00 + GST</span>
+    <span class="value">TBA + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -164,7 +164,7 @@ The best value to attend the show is to purchase a gold pass. A gold pass enable
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$139.00 + GST</strikethrough></span>
+    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
