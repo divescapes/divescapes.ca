@@ -14,12 +14,6 @@ We’re working hard to provide you with another stellar schedule for Divescapes
 
 <h2>Show Location</h2>
 
-<p><strong>Commonwealth Centre</strong><br/>
-1177 - 3961 52 Ave NE<br/>
-Calgary, Alberta<br/>
-<a href="https://goo.gl/maps/UCJ4cqqHn2G2">Google Map</a><br/>
-<a href="http://www.commonwealthcentre.com">http://www.commonwealthcentre.com</a></p>
-
 <h2>Show Schedule (Tentative)</h2>
 
 <style type="text/css">
