@@ -3,8 +3,8 @@ date        = "2017-11-27"
 title       = "Sponsors"
 description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
 tags        = [ "wide" ]
-image1 = 24
-image2 = 23
+image1 = 21
+image2 = 19
 image3 = 22
 +++
 
