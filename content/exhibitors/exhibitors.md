@@ -6,8 +6,8 @@ image1 = 18
 image2 = 17
 image3 = 16
 aliases = [
-  "/exhibitors/"\
-
+  "/exhibitors/"
+]
 +++
 
 $___ CDN
