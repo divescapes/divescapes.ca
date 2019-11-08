@@ -20,7 +20,7 @@ Here are just a few of the AUC's important programs:
 * Discover Scuba Experience Program for Youths & Schools
 * Intro to Underwater Hockey Sessions
 * Discover Local Diving at AUC's Annual Dive Alberta Events & Lake Cleanups!!
-* AUC's Divescapes Scuba Conference & Exhibition - celebrating 25 years of AUC volunteers organizing this amazing scuba show!!
+* AUC's Divescapes Scuba Conference & Exhibition - celebrating 25 years of AUC volunteers organizing this amazing scuba show!! Join us at the River Cree Resort & Casino on Oct 23, 24, 2020.
 
 **Questions?**
 
