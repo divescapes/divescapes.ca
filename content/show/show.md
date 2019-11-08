@@ -10,9 +10,9 @@ aliases = [
 ]
 +++
 
-We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
+TBA: We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
 
-<h2>Show Schedule (Tentative)</h2>
+<h2>Show Schedule (Tentative, TBA)</h2>
 
 <style type="text/css">
 th, td { padding: 5px; }
@@ -55,8 +55,8 @@ th, td { padding: 5px; }
 <tr><td align="right">3:30 PM</td><td>Break</td></tr>
 <tr><td align="right">4:00 PM</td><td>Divescapes Guest Speaker: TBA</td></tr>
 <tr><td align="right">4:45 PM</td><td>Afternoon Presentation end, Exhibitors close-up &amp; site preparations for Gala Dinner &amp; Keynote Presentations</td></tr>
-<tr><td align="right">6:00 PM</td><td>Cocktails w/Divescapes Guests Speakers, Gold Pass Holders, Gala Dinner Ticket Holders (cash bar extra)</td></tr>
-<tr><td align="right">6:30 PM</td><td>GALA Dinner Served with Prize Announcements</td></tr>
+<tr><td align="right">6:00 PM</td><td>Cocktails w/Divescapes Guests Speakers, Gold Pass Holders, Gala Dinner Ticket Holders (cash bar extra, dress casual)</td></tr>
+<tr><td align="right">6:30 PM</td><td>GALA Dinner Served with Prize Announcements (dress casual)</td></tr>
 <tr><td align="right">8:00 PM</td><td>Divescapes Keynote Presentation: TBA
 <tr><td align="right">8:45 PM</td><td>Divescapes Keynote Presentation: TBA</td></tr>
 </tbody>
@@ -69,10 +69,10 @@ th, td { padding: 5px; }
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">8 AM</td><td>PSI – Visual Scuba Tank Inspection Course TBA</td></tr>
-<tr><td align="right">9 AM</td><td>Discover Rebreathers with Rebreather Instructors: TBA
-<tr><td align="right">10 AM</td><td>DCS - DTBA
+<tr><td align="right">8 AM</td><td>TBA - WORKSHOPS ONLY on Sunday, Oct 25th, yet to be announced</td></tr>
+<tr><td align="right">9 AM</td><td>TBA
+<tr><td align="right">10 AM</td><td>TBA
 </tbody>
 </table>
 
-The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue)!
+The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue), Oct 23, 24, 25, 2020!
