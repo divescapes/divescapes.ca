@@ -12,7 +12,7 @@ aliases = [
 
 TBA: We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
 
-<h2>Show Schedule (Tentative, TBA)</h2>
+<h2>Show Schedule: Oct 23, 24, 2020 (Tentative, TBA)</h2>
 
 <style type="text/css">
 th, td { padding: 5px; }
