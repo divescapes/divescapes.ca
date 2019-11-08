@@ -1,7 +1,7 @@
 +++
 date        = "2015-09-03"
 title       = "Exhibitors Information"
-description = "ALBERTA UNDERWATER COUNCIL'S Scuba Conference & Exhibition"
+description = "ALBERTA UNDERWATER COUNCIL'S Divescapes Scuba Conference & Exhibition, Oct 23/24, 2020 at River Cree Resort & Casino, Edmonton, Alberta"
 image1 = 18
 image2 = 17
 image3 = 16
