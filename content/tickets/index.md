@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird Gold Pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Note: Cash Bar extra. PRIZES for Early Bird Ticket Holders only: TBA
+The very best value to attend the show is to purchase an Early Bird Gold Pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Note: Cash Bar extra. EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
 
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
@@ -150,6 +150,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Trade Show Access</li>
       <li>Saturday Daytime Speakers</li>
       <li>No Gala Dinner or Evening Speakers</li>
+      <li>No lunch supplied on Saturday but many affordable options @ River Cree to purchase
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -169,7 +170,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Saturday Gala Dinner</h3>
+  <h3>Saturday Gala Dinner & Keynote Presentation</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird:
