@@ -11,13 +11,14 @@ aliases = [
 ]
 +++
 
-The best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
+The very best value to attend the show is to purchase a gold pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night.
 
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird: $149 + GST</strikethrough></span>
+    After Aug 31/20: $179
 
   </div>
   <div class="plan-features">
