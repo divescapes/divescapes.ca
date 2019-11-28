@@ -18,7 +18,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird: $149 + GST</strikethrough></span>
-    After Aug 31/20: $179
+    
 
   </div>
   <div class="plan-features">
@@ -27,7 +27,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
       <li>Friday Pass</li>
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
-      <li>Note: No lunch provided on Saturday</li>
+      <li>Note: No lunch supplied on Saturday but many options at the River Cree to purchase</li>
     </ul>
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -44,7 +44,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
+    <span class="value"><strikethrough>$89 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -71,7 +71,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Saturday All Day Pass</h3>
+  <h3>Saturday All Day Pass + Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
@@ -82,7 +82,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
       <li>Saturday Morning Speakers</li>
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
-      <li>Note: No lunch provided on Saturday</li>
+      <li>Note: No lunch provided Saturday</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -106,7 +106,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
   <h3>Saturday Student Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$TBA + GST</span>
+    <span class="value">$35 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -133,10 +133,10 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
 
 
 <div class="featured plan one-third column">
-  <h3>Saturday Pass</h3>
+  <h3>Saturday Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">TBA + GST</span>
+    <span class="value">$45 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -165,7 +165,7 @@ The very best value to attend the show is to purchase a gold pass. A gold pass e
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$TBA + GST</strikethrough></span>
+    <span class="value"><strikethrough>$99 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
