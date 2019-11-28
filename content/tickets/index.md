@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird Gold Pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Cash Bar extra.
+The very best value to attend the show is to purchase an Early Bird Gold Pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Note: Cash Bar extra. PRIZES for Early Bird Ticket Holders only: TBA
 
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
@@ -28,7 +28,8 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner (dress code casual) </li>
-      <li>Note: No lunch is supplied on Saturday but many affordable options at the River Cree to purchase</li>
+      <li>Cash Bar Extra</li>
+      <li>Note: No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
     </ul>
       <li>After Aug 31/20, $179 +GST</li>
     <div style="width:100%;text-align:center;">
@@ -46,7 +47,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
   <h3>Friday Only Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>Early Bird
+    <span class="value"><strikethrough>Early Bird:
       $89 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
@@ -77,7 +78,8 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
   <h3>Saturday All Day Pass + Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$129 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird: 
+      $129 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -85,7 +87,9 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Saturday Morning Speakers</li>
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
-      <li>Note: No lunch provided Saturday</li>
+      <li>Cash Bar Extra>/li>
+      <li>After Aug 31/20, $159 +GST
+      <li>Note: No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -168,13 +172,15 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>$99 + GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird:
+      $99 + GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
-      <li>Trade Show Access</li>
       <li>Saturday Gala Dinner</li>
       <li>Saturday Evening Speakers</li>
+      <li>Cash Bar Extra</li>
+      <li>After Aug 31/20 $119 +GST
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
