@@ -55,6 +55,8 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Trade Show Access</li>
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
+      <li>Cash Bar Extra</li>
+      
       <li>After Aug 31/20: $109 +GST;</li>
       <li>&nbsp;</li>
     </ul>
@@ -88,8 +90,9 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
       <li>Cash Bar Extra>/li>
-      <li>After Aug 31/20, $159 +GST
       <li>Note: No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
+      <li>After Aug 31/20, $159 +GST
+      
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
