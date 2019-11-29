@@ -32,6 +32,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Note: No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
     </ul>
       <li>After Aug 31/20, $179 +GST</li>
+  
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
       <input type="hidden" name="cmd" value="_s-xclick">
@@ -58,6 +59,9 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Cash Bar Extra</li>
       
       <li>After Aug 31/20: $109 +GST;</li>
+      
+      
+      
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
@@ -92,8 +96,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Cash Bar Extra>/li>
       <li>Note: No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
       <li>After Aug 31/20, $159 +GST
-      
-    </ul>
+      </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
