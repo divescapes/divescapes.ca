@@ -12,7 +12,7 @@ aliases = [
 +++
 
 The very best value to attend the show is to purchase an Early Bird Gold Pass. A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Note: Cash Bar extra. 
-EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
+<li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To come soon!</li>
 
 <div class="premium plan one-third column">
   <h3>Gold Pass</h3>
@@ -88,7 +88,7 @@ EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Saturday All Day Pass + Dinner</h3>
+  <h3>Sat All Day Pass + Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird 
@@ -100,7 +100,7 @@ EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
       <li>Saturday Morning Speakers</li>
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
-      <li>Cash Bar Extra>/li>
+      <li>Cash Bar Extra</li>
       <li>Note: No lunch supplied on Saturday but many affordable options at the River Cree to purchase</li>
       <li>After Aug 31/20, $159 +GST
       </ul>
@@ -155,7 +155,7 @@ EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
 
 
 <div class="featured plan one-third column">
-  <h3>Saturday Day Pass</h3>
+  <h3>Sat Day Pass Only</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value">$45 + GST</span>
@@ -188,7 +188,7 @@ EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA
   <h3>Saturday Gala Dinner</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>Early Bird:
+    <span class="value"><strikethrough>Early Bird
       $99+GST</strikethrough></span>
   </div>
   <div class="plan-features">
