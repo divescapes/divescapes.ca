@@ -32,9 +32,8 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Cash Bar Extra</li>
       <li>Note: No lunch supplied on Saturday but many affordable options at the River Cree to purchase</li>
     </ul>
-  
-      <li>After Aug 31/20 - $179 +GST</li>
-  
+        <li>After Aug 31/20 - $179 +GST</li>
+    </ul>
   
     <div style="width:100%;text-align:center;">
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -60,7 +59,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
       <li>Cash Bar Extra</li>
-      <li>Great ticket option for those who have to work on Sat.
+      <li>Great ticket option for those who can't make it on Saturday. Join your dive buddies & socialize w/Divescapes 2020  presenters!
         
         
         
@@ -123,7 +122,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
 <p>&nbsp;</p>
 
 <div class="featured plan one-third column">
-  <h3>Saturday Student Pass</h3>
+  <h3>Saturday Student Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value">$35 + GST</span>
@@ -136,6 +135,10 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
       <li>No Gala Dinner or Evening Speakers</li>
       
       <li>Must show current Student I.D. upon arrival.</li>
+      
+      <li>No lunch supplied on Saturday but many affordable options @ River Cree to purchase</li>
+      
+      
     </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -155,7 +158,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
 
 
 <div class="featured plan one-third column">
-  <h3>Sat Day Pass Only</h3>
+  <h3>Saturday Day Pass Only</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value">$45 + GST</span>
