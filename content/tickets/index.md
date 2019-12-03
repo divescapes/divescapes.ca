@@ -31,8 +31,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Trade Show Access</li>
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
-      <li>Saturday Gala Dinner</li>
-      <li>Saturday Keynote Speaker Presentations</li>
+      <li>Saturday Gala Dinner and Keynote Presentations</li>
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
     </ul>
