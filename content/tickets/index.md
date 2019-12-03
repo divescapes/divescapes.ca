@@ -15,16 +15,18 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To come soon!</li>
 
 <div class="premium plan one-third column">
-  <h3>Gold Pass</h3>
+  <h3>Gold Pass 2020</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>Early Bird 
-      $149+GST</strikethrough></span>
+    <span class="value"><strikethrough>XMAS SPECIAL 
+      $139+GST</strikethrough></span>
     
 
   </div>
   <div class="plan-features">
     <ul>
+      <li>Eco-Friendly Xmas Gift - Ticket Sale Only until Midnight Dec 24/19</li>
+      <li>Early Bird Tickets: $149+GST Dec 25/19 until Aug 31/20</li>
       <li>Trade Show Access</li>
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
@@ -47,7 +49,7 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Friday Only Pass</h3>
+  <h3>Friday Only Pass 2020</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
@@ -196,8 +198,8 @@ The very best value to attend the show is to purchase an Early Bird Gold Pass. A
   </div>
   <div class="plan-features">
     <ul>
-      <li>Saturday Gala Dinner</li>
-      <li>Saturday Evening Speakers</li>
+      <li>Saturday Gala Dinner 2020</li>
+      <li>Saturday Evening Keynote Speakers</li>
       <li>Cash Bar Extra</li>
       <li>Best Option for non-diving partner or friend
       <li>After Aug 31/20 $119 +GST
