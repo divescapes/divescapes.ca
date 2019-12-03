@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird XMAS GIFT Gold Pass (only now until Dec 24/19). A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner on Saturday night. Note: Cash Bar extra. 
+The very best value to attend the show is to purchase an Early Bird XMAS GIFT Gold Pass (only now until Dec 24/19). A gold pass enables you to see all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra. 
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
 
 <div class="premium plan one-third column">
@@ -31,6 +31,7 @@ The very best value to attend the show is to purchase an Early Bird XMAS GIFT Go
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner</li>
+      <li>Saturday Keynote Speaker Presentations</li>
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
     </ul>
@@ -101,8 +102,9 @@ The very best value to attend the show is to purchase an Early Bird XMAS GIFT Go
       <li>Saturday Morning Speakers</li>
       <li>Saturday Afternoon Speakers</li>
       <li>Saturday Gala Dinner</li>
+      <li>Saturday Keynote Speaker Presentations</li>
       <li>Cash Bar Extra</li>
-      <li>Note: No lunch supplied on Saturday but many affordable options at the River Cree to purchase</li>
+      <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
       <li>After Aug 31/20, $159 +GST
       </ul>
     <div style="width:100%;text-align:center;">
