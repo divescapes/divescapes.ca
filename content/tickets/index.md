@@ -11,9 +11,8 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird & very Eco-Friendly XMAS GIFT Gold Pass (Sale only til Dec 24/19). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
-
-<li>Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, Toll Free: 1-888-307-8566, or info@albertaunderwatercouncil.com</li>
+The very best value to attend the show is to purchase an Early Bird & very Eco-Friendly XMAS GIFT Gold Pass (Sale only til Dec 24, 2019). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
+Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, Toll Free: 1-888-307-8566, or info@albertaunderwatercouncil.com<
 
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
 
@@ -28,8 +27,8 @@ The very best value to attend the show is to purchase an Early Bird & very Eco-F
   </div>
   <div class="plan-features">
     <ul>
-      <li>Eco-Friendly Xmas Gift - Ticket Sale Only until Midnight Dec 24/19</li>
-      <li>Early Bird Tickets: $149+GST on sale from Dec 25/19 until Aug 31/20</li>
+      <li>Eco-Friendly Xmas Gift 'til Dec 24/19</li>
+      <li>Early Bird Tickets: $149+GST 'til Aug 31/20</li>
       <li>Trade Show Access</li>
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
