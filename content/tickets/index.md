@@ -20,8 +20,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <h3>Gold Pass 2020</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>XMAS SPECIAL 
-      $139+GST</strikethrough></span>
+    <span class="value"><strikethrough>Xmas:$139+GST</strikethrough></span>
     
 
   </div>
