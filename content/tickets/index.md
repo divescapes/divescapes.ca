@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird  Gold Pass (Sale only 'til Aug 31, 2020). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
+The very best value to attend the show is to purchase an Early Bird  Gold Pass (Early Bird only 'til Aug 31, 2020). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
 Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, Toll Free: 1-888-307-8566, or info@albertaunderwatercouncil.com<
 
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
@@ -20,7 +20,8 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <h3>Gold Pass 2020</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value"><strikethrough>Xmas:$139+GST</strikethrough></span>
+    <span class="value"><strikethrough>Early Bird
+      $149+GST</strikethrough></span>
     
 
   </div>
