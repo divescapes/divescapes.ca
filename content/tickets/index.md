@@ -27,14 +27,12 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   </div>
   <div class="plan-features">
     <ul>
-      
-      <li>Early Bird Tickets: $149+GST 'til Aug 31/20</li>
       <li>Trade Show Access</li>
       <li>Friday Pass including light dinner</li>
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner and Keynote Presentations</li>
       <li>Cash Bar Extra</li>
-      <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
+      <li>Note: Lunch is not included but affordable options available on site</li>
     </ul>
         <li>After Aug 31/20 - $179 +GST</li>
     </ul>
