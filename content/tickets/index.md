@@ -32,7 +32,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Saturday Pass</li>
       <li>Saturday Gala Dinner and Keynote Presentations</li>
       <li>Cash Bar Extra</li>
-      <li>Note: Lunch is not included but affordable options available on site</li>
+      <li>Note: Lunch is not included but affordable options available on site at the River Cree Resort & Casino</li>
     </ul>
         <li>After Aug 31/20 - $179 +GST</li>
     </ul>
