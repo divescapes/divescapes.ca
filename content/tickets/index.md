@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird  Gold Pass (Early Bird only 'til Aug 31, 2020). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
+The very best value to attend the show is to purchase an Early Bird  Gold Pass (Early Bird only 'til Aug 31, 2021). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
 Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, Toll Free: 1-888-307-8566, or info@albertaunderwatercouncil.com<
 
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
@@ -34,7 +34,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but affordable options available on site at the River Cree Resort & Casino</li>
     </ul>
-        <li>After Aug 31/20 - $179 +GST</li>
+        <li>After Aug 31/21 - $179 +GST</li>
   
   
     </ul>
@@ -51,7 +51,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Friday Only Pass 2020</h3>
+  <h3>Friday Only Pass 2021</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
@@ -68,7 +68,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
         
         
         
-      <li>After Aug 31/20 - $109+GST</li>
+      <li>After Aug 31/21 - $109+GST</li>
       
       
       
@@ -106,7 +106,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Saturday Keynote Speaker Presentations</li>
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
-      <li>After Aug 31/20, $159 +GST
+      <li>After Aug 31/21, $159 +GST
       </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -205,7 +205,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Saturday Evening Keynote Speakers</li>
       <li>Cash Bar Extra</li>
       <li>Best Option for non-diving partner or friend
-      <li>After Aug 31/20 $119 +GST
+      <li>After Aug 31/21 $119 +GST
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
