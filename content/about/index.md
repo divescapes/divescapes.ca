@@ -13,14 +13,14 @@ The Alberta Underwater Council is the non profit representative body for underwa
 
 **Our mission statement:** The AUC represents & encourages responsible participation in and an awareness of the many underwater activities available in Alberta while seeking to preserve the aquatic environment.
 
-**Celebrating AUC's 60th Anniversary in 2020** Join with us to help celebrate this amazing milestone anniversary!
+**Celebrating AUC's 60th Anniversary in 2020** Note: CELEBRATIONS postponed until 2021 for this amazing milestone anniversary!
 
 Here are just a few of the AUC's important programs:
 
 * Discover Scuba Experience Program for Youths & Schools
 * Intro to Underwater Hockey Sessions
 * Discover Local Diving at AUC's Annual Dive Alberta Events & Lake Cleanups!!
-* AUC's Divescapes Scuba Conference & Exhibition - celebrating 25 years of AUC volunteers organizing this amazing scuba show!! Join us at the River Cree Resort & Casino on Oct 23, 24, 2020.
+* AUC's Divescapes Scuba Conference & Exhibition - celebrating 25 years of AUC volunteers organizing this amazing scuba show!! Join us at the River Cree Resort & Casino POSTPONED - until October 2021 (exact dates yet to be determined).
 
 **Questions?**
 
