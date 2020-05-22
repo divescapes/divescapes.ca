@@ -1,7 +1,7 @@
 +++
 date        = "2015-09-03"
 title       = "Exhibitors Information"
-description = "ALBERTA UNDERWATER COUNCIL'S Divescapes 2020 Conference & Exhibition, Oct 23/24, 2020 at River Cree Resort & Casino, Edmonton, Alberta"
+description = "ALBERTA UNDERWATER COUNCIL'S Divescapes Scuba Conference & Exhibition, POSTPONED until Oct 2021 at River Cree Resort & Casino, Edmonton, Alberta"
 image1 = 18
 image2 = 17
 image3 = 16
@@ -12,7 +12,7 @@ aliases = [
 
 Early Bird $400 +GST - Sign Up Early & SAVE $100
 
-After June 1/20: $500 +GST (in Canadian dollars)
+After June 1/21: $500 +GST (in Canadian dollars)
 
 ALSO: You are encouraged to offer a door prize at your booth that can attract attendees to your booth and allow you to collect contact information and build a mailing list. 
 
