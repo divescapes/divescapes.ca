@@ -75,4 +75,5 @@ th, td { padding: 5px; }
 </tbody>
 </table>
 
-The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue), Oct 23, 24, 25, 2020!
+The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue), Oct ??, 2021! 
+NOTE: Divescapes 2020 postponed until Oct 2021 due to COVID-19, exact dates yet to be determined
