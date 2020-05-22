@@ -1,5 +1,5 @@
 baseurl = "https://www.divescapes.ca/"
 languageCode = "en-us"
-title = "Divescapes 2020"
+title = "Divescapes 2021"
 disableKinds = ["RSS","taxonomy","section","taxonomyTerm"]
 enableGitInfo = true
