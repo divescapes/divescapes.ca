@@ -10,9 +10,8 @@ aliases = [
 ]
 +++
 
-TBA: We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
-
-<h2>Show Schedule: Postponed until Oct 2021 (Tentative, exact dates yet to be determined)</h2>
+TBA: We’re working hard to provide you with another stellar schedule for Divescapes Scuba Conference 
+<h2>Show Schedule: NOTE: Postponed until Oct 2021 (Tentative, exact dates yet to be determined)</h2>
 
 <style type="text/css">
 th, td { padding: 5px; }
