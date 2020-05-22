@@ -12,7 +12,7 @@ aliases = [
 
 TBA: We’re working hard to provide you with another stellar schedule for Divescapes 2020 which is happening on October 23/24/2020
 
-<h2>Show Schedule: Oct 23, 24, 2020 (Tentative, TBA)</h2>
+<h2>Show Schedule: Postponed until Oct 2021 (Tentative, exact dates yet to be determined)</h2>
 
 <style type="text/css">
 th, td { padding: 5px; }
@@ -21,7 +21,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Friday, Oct 23/2020</strong></th>
+<th><strong>Friday, Oct ? 2021</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -38,7 +38,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Saturday, Oct 24th</strong></th>
+<th><strong>Saturday, Oct ? 2021 </strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Sunday, Oct 25</strong></th>
+<th><strong>Sunday, Oct? 2021</strong></th>
 <th></th></tr>
 </thead>
 <tbody>
