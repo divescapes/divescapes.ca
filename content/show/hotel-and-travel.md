@@ -11,7 +11,7 @@ aliases = [
 +++
 
 <p>&nbsp;</p>
-<h2>Divescapes 2020 Edmonton Venue</h2>
+<h2>Divescapes 2021 Edmonton Venue (exact date yet to be determined)</h2>
 <p>&nbsp;</p>
 
 
