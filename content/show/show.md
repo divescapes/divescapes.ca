@@ -74,5 +74,5 @@ th, td { padding: 5px; }
 </tbody>
 </table>
 
-The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2022 (as 2020 was cancelled due to Covid)! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue), Oct ??, 2021! 
-NOTE: Divescapes postponed until Oct 28, 29, 2022 due to COVID-19 (fingers crossed!)
+The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2022 (as 2020 was cancelled due to Covid)! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2022 Host Venue), Oct 28, 29, 30, 2022! 
+NOTE: Divescapes new date scheduled for Oct 28, 29, 2022 due to COVID-19 (fingers crossed!)
