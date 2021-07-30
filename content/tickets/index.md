@@ -11,10 +11,10 @@ aliases = [
 ]
 +++
 
-The very best value to attend the show is to purchase an Early Bird  Gold Pass (Early Bird only 'til Aug 31, 2021). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
+The very best value to attend the show is to purchase an Early Bird  Gold Pass (Early Bird only 'til Aug 31, 2022). A gold pass enables you to see, hear & interact with all of the speakers over the course of Friday and Saturday, as well as enjoy dinner each night, including the Gala dinner and Keynote Speakers on Saturday night. Note: Cash Bar extra.  
 Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, Toll Free: 1-888-307-8566, or info@albertaunderwatercouncil.com<
 
-<li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
+<li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: TBA </li>
 
 <div class="premium plan one-third column">
   <h3>Gold Pass 2022</h3>
@@ -22,7 +22,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
       $175+GST</strikethrough></span>
-    
+     
 
   </div>
   <div class="plan-features">
@@ -51,11 +51,11 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
 </div>
 
 <div class="featured plan one-third column">
-  <h3>Friday Only Pass 2021</h3>
+  <h3>Friday Only Pass 2022</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
-      $99+GST</strikethrough></span>
+      $95+GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -63,12 +63,12 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Friday Evening Speakers</li>
       <li>Friday Evening Meal</li>
       <li>Cash Bar Extra</li>
-      <li>Great ticket option for those who can't make it on Saturday. Join your dive buddies & socialize w/Divescapes 2020  presenters!
+      <li>Great ticket option for those who can't make it on Saturday. Join your dive buddies & socialize Friday w/Divescapes 2022  presenters!
         
         
         
         
-      <li>After Aug 31/22 - $109+GST</li>
+      <li>After Aug 31/22 - $115+GST</li>
       
       
       
@@ -95,7 +95,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird 
-      $145+GST</strikethrough></span>
+      $155+GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -130,7 +130,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <h3>Saturday Student Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$39 + GST</span>
+    <span class="value">$35 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -197,15 +197,15 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
-      $99+GST</strikethrough></span>
+      $95+GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
-      <li>Saturday Gala Dinner 2020</li>
+      <li>Saturday Gala Dinner 2022</li>
       <li>Saturday Evening Keynote Speakers</li>
       <li>Cash Bar Extra</li>
       <li>Best Option for non-diving partner or friend
-      <li>After Aug 31/22 $119 +GST
+      <li>After Aug 31/22 $115 +GST
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
