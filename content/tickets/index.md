@@ -17,11 +17,11 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
 <li>EXTRA PRIZE(S) for Early Bird Ticket Holders only: To be announced soon!</li>
 
 <div class="premium plan one-third column">
-  <h3>Gold Pass 2020</h3>
+  <h3>Gold Pass 2022</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
-      $149+GST</strikethrough></span>
+      $175+GST</strikethrough></span>
     
 
   </div>
@@ -34,7 +34,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but affordable options available on site at the River Cree Resort & Casino</li>
     </ul>
-        <li>After Aug 31/21 - $179 +GST</li>
+        <li>After Aug 31/22 - $195 +GST</li>
   
   
     </ul>
@@ -55,7 +55,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird
-      $89+GST</strikethrough></span>
+      $99+GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -68,7 +68,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
         
         
         
-      <li>After Aug 31/21 - $109+GST</li>
+      <li>After Aug 31/22 - $109+GST</li>
       
       
       
@@ -95,7 +95,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
     <span class="value"><strikethrough>Early Bird 
-      $129+GST</strikethrough></span>
+      $145+GST</strikethrough></span>
   </div>
   <div class="plan-features">
     <ul>
@@ -106,7 +106,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Saturday Keynote Speaker Presentations</li>
       <li>Cash Bar Extra</li>
       <li>Note: Lunch is not included but many affordable options at the River Cree to purchase</li>
-      <li>After Aug 31/21, $159 +GST
+      <li>After Aug 31/22, $175 +GST
       </ul>
     <div style="width:100%;text-align:center;">
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -130,7 +130,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
   <h3>Saturday Student Day Pass</h3>
   <div class="plan-price">
     <!-- <span class="plan-currency">$</span> -->
-    <span class="value">$35 + GST</span>
+    <span class="value">$39 + GST</span>
   </div>
   <div class="plan-features">
     <ul>
@@ -205,7 +205,7 @@ Questions or concerns? Please contact Cathie at the AUC Office, 780-427-9125, To
       <li>Saturday Evening Keynote Speakers</li>
       <li>Cash Bar Extra</li>
       <li>Best Option for non-diving partner or friend
-      <li>After Aug 31/21 $119 +GST
+      <li>After Aug 31/22 $119 +GST
       <li>&nbsp;</li>
     </ul>
     <div style="width:100%;text-align:center;">
