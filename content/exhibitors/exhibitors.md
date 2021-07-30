@@ -1,7 +1,7 @@
 +++
 date        = "2015-09-03"
 title       = "Exhibitors Information"
-description = "ALBERTA UNDERWATER COUNCIL'S Divescapes Scuba Conference & Exhibition, POSTPONED until Oct 2021 at River Cree Resort & Casino, Edmonton, Alberta"
+description = "ALBERTA UNDERWATER COUNCIL'S Divescapes Scuba Conference & Exhibition, POSTPONED until Oct 28, 29th, 2022 at River Cree Resort & Casino, Edmonton, Alberta"
 image1 = 18
 image2 = 17
 image3 = 16
@@ -10,9 +10,9 @@ aliases = [
 ]
 +++
 
-Early Bird $400 +GST - Sign Up Early & SAVE $100
+Early Bird $425 +GST - Sign Up Early & SAVE $100
 
-After June 1/21: $500 +GST (in Canadian dollars)
+After June 30/22: $525 +GST (in Canadian dollars)
 
 ALSO: You are encouraged to offer a door prize at your booth that can attract attendees to your booth and allow you to collect contact information and build a mailing list. 
 
@@ -26,14 +26,14 @@ EXHIBITORS - what you get
 2.	1-2 folding chairs.
 3.	One 5 foot table with skirting.
 4.	Electrical power if needed (1 plug).
-5.	One Gold Pass which allows access to all speakers and all meals.
-6.	The option of purchasing up to 3 Friday staff wrist bands for $40+gst each; which will allow access to the Friday evening meal and the Friday evening speakers.
-7.	The option of buying up to 3 Saturday staff wrist bands for $70+gst each; (which will allow access to the Saturday evening speakers and the Saturday banquet dinner).
-8.	You will receive a colored coded one-wear wrist bands for you and your staff identify you as an exhibitor and allows you admittance and access to the meals you have paid for.
+5.	One Gold Pass included with each Booth, which allows access for one staff to all speakers and all meals (Friday & Saturday evenings, lunch extra).
+6.	For additional booth staff, there's an option of purchasing up to 2 Friday staff wrist bands for $55+gst each; allows access to the Friday evening meal and the Friday evening speakers.
+7.	For additional booth staff, option of buying up to 3 Saturday staff wrist bands for $95+gst each; allows access to the Saturday evening speakers and the Saturday banquet dinner.
+8.	You will receive a colored coded one-wearer wrist bands for you and your staff identifies you as an exhibitor and allows you admittance and access to the meals you have paid for.
 9.	Your logo and a link to your website posted on the Exhibitor page of the Divescapes webpage (please supply jpeg of logo).
 10.	Your logo and contact information in the Divescapes program (please supply asap).
 11.	One black & white business card sized advertisement in the Divescapes program (must supply print ready copy).
-12.	The MC will recognize you when your door prize is awarded.
+12.	The MC will recognize you when your door prize and/or sponsor prize (if provided) is awarded.
 
 
 **Note: The sooner you sign up the more marketing exposure you will receive.**
