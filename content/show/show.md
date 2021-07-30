@@ -11,7 +11,7 @@ aliases = [
 +++
 
 TBA: We’re working hard to provide you with another stellar schedule for Divescapes Scuba Conference 
-<h2>Show Schedule: NOTE: Postponed until Oct 2021 (Tentative, exact dates yet to be determined)</h2>
+<h2>Show Schedule: NOTE: Postponed until Oct 28, 29th, 2022 </h2>
 
 <style type="text/css">
 th, td { padding: 5px; }
@@ -20,7 +20,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Friday, Oct ? 2021</strong></th>
+<th><strong>Friday, Oct 28, 2022 </strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -37,7 +37,7 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Saturday, Oct ? 2021 </strong></th>
+<th><strong>Saturday, Oct 29, 2022 </strong></th>
 <th></th></tr>
 </thead>
 <tbody>
@@ -64,15 +64,15 @@ th, td { padding: 5px; }
 <table>
 <thead>
 <tr>
-<th><strong>Sunday, Oct? 2021</strong></th>
+<th><strong>Sunday, Oct 30, 2022 </strong></th>
 <th></th></tr>
 </thead>
 <tbody>
-<tr><td align="right">8 AM</td><td>TBA - WORKSHOPS ONLY on Sunday, Oct 25th, yet to be announced</td></tr>
+<tr><td align="right">8 AM</td><td>TBA - WORKSHOPS ONLY possible on Sunday, Oct 30, 2022, yet to be announced</td></tr>
 <tr><td align="right">9 AM</td><td>TBA
 <tr><td align="right">10 AM</td><td>TBA
 </tbody>
 </table>
 
 The Alberta Underwater Council is proud to present the Divescapes Conference and Exhibition. Divescapes has had many outstanding shows over its 25 years!  Our volunteers are working hard to bring an even bigger and better show in 2020! New speakers and new exhibitors in a great new venue, with our thanks to the RIVER CREE RESORT & CASINO (2020 Host Venue), Oct ??, 2021! 
-NOTE: Divescapes 2020 postponed until Oct 2021 due to COVID-19, exact dates yet to be determined
+NOTE: Divescapes postponed until Oct 28, 29, 2022 due to COVID-19 (fingers crossed!)
