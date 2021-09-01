@@ -10,13 +10,13 @@ aliases = [
 ]
 +++
 
-Early Bird $425 +GST - Sign Up Early & SAVE $100
+Early Bird $475 +GST - Sign Up Early & SAVE $100
 
-After June 30/22: $525 +GST (in Canadian dollars)
+After June 30/22: $575 +GST (in Canadian dollars)
 
 ALSO: You are encouraged to offer a door prize at your booth that can attract attendees to your booth and allow you to collect contact information and build a mailing list. 
 
-SPONSORSHIP OPPORTUNITIES?? Please donate a prize to the AUC's Silent Auction Table & become a Bronze Sponsor! Divescapes 2020 Sponsorships available: Platinum, Gold, Silver & Bronze. Contact Cathie at AUC Office for Sponsorship Package.
+SPONSORSHIP OPPORTUNITIES?? Please donate a prize to the AUC's Silent Auction Table & become a Bronze Sponsor! Divescapes 2022 Sponsorships available: Platinum, Gold, Silver & Bronze. Contact Cathie at AUC Office for Sponsorship Package.
 
 ADVERTISING OPPORTUNITIES?? Additional advertising opportunites available, contact Cathie at the AUC Office for Advertising Pkg.
 
